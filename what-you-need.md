@@ -11,3 +11,4 @@
 * [Script Ahoy!](https://github.com/dd388/crals)
 * [Storybench](http://www.storybench.org/about-storybench/)
 * [Programming Historian](https://programminghistorian.org/lessons/) 
+* https://github.com/ablwr/avpres-training
