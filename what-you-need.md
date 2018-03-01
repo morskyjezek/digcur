@@ -7,6 +7,7 @@
 * A healthy outlook of exploration and self-sufficiency. Things won't always work as you think they will or as explained, sometimes breaking things is a way to learn. So don't worry if you get some error messages, things don't work out on the first try, or there are some frustrations along the way. Exploration is part of the learning process. 
 
 # Python
+You should be working in a version of Python 3.X. 
 
 * If you are running Windows, see these [instructions from Python 4 Everyone](https://www.py4e.com/software-win.php).
 * If you are running a Mac, you should already have python. More information at [Python 4 Everyone](https://www.py4e.com/software-mac.php); if you don't have Python 3, check [here](http://docs.python-guide.org/en/latest/starting/install3/osx/).  
