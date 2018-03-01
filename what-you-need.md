@@ -18,3 +18,4 @@ You should be working in a version of Python 3.X.
 * [Storybench](http://www.storybench.org/about-storybench/)
 * [Programming Historian](https://programminghistorian.org/lessons/) 
 * https://github.com/ablwr/avpres-training
+* [Boston College DigSchool](https://github.com/BCDigSchol)
