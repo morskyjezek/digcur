@@ -1,7 +1,7 @@
 # Here's some things you'll need
 
 * A text editor that helps you with code and markup
-  * Examples: [Atom](https://atom.io/) (various), Notepad++ (Windows), [TextWrangler](http://www.barebones.com/products/textwrangler/) (Mac), [Brackets](http://brackets.io/) (Mac)
+  * Examples: [Atom](https://atom.io/) (various), [Notepad++](https://notepad-plus-plus.org/) (Windows), [TextWrangler](http://www.barebones.com/products/textwrangler/) (Mac), [Brackets](http://brackets.io/) (Mac)
 * [Open Refine](), a free tool for manipulating data, it will run in your browser but you may need to follow this guide to get it up and running
 * [Bagger](), a free tool for packaging data, which will create a metadata file, manifest of contents, and generate integrity information (checksums) 
 * A healthy outlook of exploration and self-sufficiency. Things won't always work as you think they will or as explained, sometimes breaking things is a way to learn. So don't worry if you get some error messages, things don't work out on the first try, or there are some frustrations along the way. Exploration is part of the learning process. 
