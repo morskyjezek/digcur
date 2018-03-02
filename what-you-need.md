@@ -1,6 +1,6 @@
 # Resources
 
-##Here's some things you'll need
+## Here's some things you'll need
 
 * A text editor that helps you with code and markup
   * Examples: [Atom](https://atom.io/) (various), [Notepad++](https://notepad-plus-plus.org/) (Windows), [TextWrangler](http://www.barebones.com/products/textwrangler/) (Mac), [Brackets](http://brackets.io/) (Mac)
