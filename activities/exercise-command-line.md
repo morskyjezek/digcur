@@ -19,30 +19,31 @@ _Note: where you see “Mac” below, this generally designates a UNIX-wide comm
 ### Managing Files
 * creating directories (```mkdir```)
 * viewing/opening files (Mac: open / Windows: <type the file>; OR viewers like less(Mac)/more(Win); OR editors: vi, ted and notepad)
-* copying/moving files (Mac: cp/mv / Windows: copy con/move)
+* copying/moving files (Mac: ``cp`` / ``mv`` / Windows: copy con/move)
 
-Create File Lists
-listing contents of a current directory (Mac: ls / Windows: dir) 
-using operators (hyphen and slash, depending on your system):
-show all files (a)
-recursion (-R or /s)
-details (-l) (Mac only; you won’t need this on windows)
-NB: these are just a few useful operators, there are many others!
-outputting lists (print to file: “>”)
+### Create File Lists
+* listing contents of a current directory (Mac: ``ls`` / Windows: ``dir`` ) 
+* using operators (hyphen and slash, depending on your system):
+  * show all files (a)
+  * recursion (-R or /s)
+  * details (-l) (Mac only; you won’t need this on windows)
+  * NB: these are just a few useful operators, there are many others!
+* outputting lists (print to file: “>”)
 
 ### General Rules of Thumb
-Know the basic architecture of the file structure environment (some places you’ll expect many directories/folders, others you will expect mostly files)
-Have a general idea of the ways you might use this for basic digital preservation tasks (navigating, listing, describing).
-In performing preservation actions, you typically want everything to be reversible and tested in advance. Reversibility is not a hallmark of the command line (nor should it be assumed in a GUI environment). 
-Don't be afraid of the command line, do be cautious: there are not always built-in safeguards as in the GUI environment. If you delete something from the command line, for example, it will not be moved to the trash before deletion - it will be removed immediately. This is not a cause for alarm, but it is a reminder to make sure you are doing exactly what you want, know how to do it (or ask someone who does), and don't proceed too quickly. 
-
+* Know the basic architecture of the file structure environment (some places you’ll expect many directories/folders, others you will expect mostly files)
+* Have a general idea of the ways you might use this for basic digital preservation tasks (navigating, listing, describing).
+* In performing preservation actions, you typically want everything to be reversible and tested in advance. Reversibility is not a hallmark of the command line (nor should it be assumed in a GUI environment). 
+* Don't be afraid of the command line, do be cautious: there are not always built-in safeguards as in the GUI environment. If you delete something from the command line, for example, it will not be moved to the trash before deletion - it will be removed immediately. This is not a cause for alarm, but it is a reminder to make sure you are doing exactly what you want, know how to do it (or ask someone who does), and don't proceed too quickly. 
 
 ## Reflection Activity
 Can you answer these questions? Open a window that gives you access to the command line:
 * What is the name of the directory or folder that you are in?
-* How would you move 
-* Can you list the 
+* How would you move to another directory or folder?
+* Can you list the contents of the directory or folder?
+* Can you get a basic list and an advanced list (that shows permissions, file size, path, etc)?
 
 ### Credits
 See these additional resources for more detailed information:
-* Bert Lyons, [Introduction to Using the Command Line Interface]() (2014); versions for both MAC and Windows OS. 
+* B. Lyons, [Introduction to Using the Command Line Interface]() (2014); versions for both MAC and Windows OS. 
+* C. Severance, _Python for Everybody_: tips for [Mac](https://www.py4e.com/software-mac.php), tips for [Windows](https://www.py4e.com/software-win.php).
