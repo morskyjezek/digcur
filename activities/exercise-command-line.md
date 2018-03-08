@@ -43,6 +43,13 @@ Can you answer these questions? Open a window that gives you access to the comma
 * Can you list the contents of the directory or folder?
 * Can you get a basic list and an advanced list (that shows permissions, file size, path, etc)?
 
+* What is the basic command for listing items in a folder or directory? Please give both Mac and Windows commands.
+* What are some basic differences between command line on Mac & Windows?
+* Use the command line to generate a list of files in a directory that is output to a file. List the command that you would use on your system below (and specify what system you’re using).
+* In what sorts of situations do you think that the command line interface would be useful or advantageous over the GUI? Give at least one example.
+* Do you feel more comfortable using the command line? Why or why not?
+
+
 ### Credits
 See these additional resources for more detailed information:
 * B. Lyons, [Introduction to Using the Command Line Interface]() (2014); versions for both MAC and Windows OS. 
