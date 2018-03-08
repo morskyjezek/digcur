@@ -9,6 +9,7 @@ An [API](https://en.wikipedia.org/wiki/Application_programming_interface) is an 
 Do you, for example, use an app to tell when the next bus will arrive or find out if the Metro is delayed? It's likely that you are using an app that was designed by an organization that has access to the data provided by DC Metro and presents it in a different form or integrates it into a newsfeed. For example, [Is Metro on Fire?](https://ismetroonfire.com/) pulls its data from the WMATA API, [MetroHero](https://dcmetrohero.com/apis).
 
 * Documentation: https://libraryofcongress.github.io/data-exploration/index.html
+* Here is how the National Archives describes and presents its catalog API: https://github.com/usnationalarchives/Catalog-API
 
 ### Credits
 
