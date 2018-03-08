@@ -1,6 +1,6 @@
 # Basics of the Command Line Interface
 
-Some of this section assumes using Mac OS/Unix style terminal commands. Please see [here](py4e on windows) and [here](BL guide from AVP) for greater detail on Windows. 
+Demonstrations during class assume use of Mac OS/Unix style terminal commands. However, commands for both unix and windows environments are offered below. See the linked resources at the bottom for greater detail. 
 
 ## Description
 
@@ -13,13 +13,13 @@ _Note: where you see “Mac” below, this generally designates a UNIX-wide comm
 ## General Actions
 
 ### Navigation
-* determining where you are (Mac: ```pwd``` / Windows: cd)
-* moving within the directory structure (cd)
+* determining where you are (Mac: ```pwd``` / Windows: ``cd``)
+* moving within the directory structure (``cd``)
 
-Managing Files
-creating directories (“mkdir”)
-viewing/opening files (Mac: open / Windows: <type the file>; OR viewers like less(Mac)/more(Win); OR editors: vi, ted and notepad)
-copying/moving files (Mac: cp/mv / Windows: copy con/move)
+### Managing Files
+* creating directories (```mkdir```)
+* viewing/opening files (Mac: open / Windows: <type the file>; OR viewers like less(Mac)/more(Win); OR editors: vi, ted and notepad)
+* copying/moving files (Mac: cp/mv / Windows: copy con/move)
 
 Create File Lists
 listing contents of a current directory (Mac: ls / Windows: dir) 
