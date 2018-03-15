@@ -1,5 +1,11 @@
 # Python 1: Expressions, Variables, Types, Inputs
 
+### Python basics
+
+Indentation is important in Python. Each line typically indicates an individual expression or statement of processing instructions. Lines that are indented indicate subroutines. 
+
+Reserved words
+
 ## Expressions
 
 ## Variables
