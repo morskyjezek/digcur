@@ -18,7 +18,9 @@ You should be working in a version of Python 3.X.
 * Here is documentation about [managing packages](https://packaging.python.org/tutorials/installing-packages/#ensure-you-can-run-pip-from-the-command-line); one tool to do this on Mac is [Homebrew](https://brew.sh/).
 
 ## Command Line
-While not the most intuitive way to interact with your computer and files, once learned the command line offers a quick and efficient way to extract metadata and design batch processes. While it may take a bit to pick up, command line basics will only take a bit of time to learn. Here are a few resources:  
+While not the most intuitive way to interact with your computer and files, learning how to interact with the command line can be a quick and efficient way to extract metadata and design batch processes. While it may take a bit of practice to pick up, command line basics can be useful. You can use the [Command Line module to explore basics](/activities/exercise-command-line.md).
+
+Here are a few other resources:  
 
 * [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) from _Learn Python the Hard Way_.
 * [Script Ahoy!](https://github.com/dd388/crals) offers explanations of many command line operations and [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) scripting. 
