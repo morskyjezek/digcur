@@ -14,7 +14,7 @@ You should be working in a version of Python 3.X.
 
 * For a general overview of Python, with special attention to the needs of information professionals, [Python 4 Everyone](https://www.py4e.com/) by Charles Severance is a useful resource.
 * If you are running Windows, see these [instructions from Python 4 Everyone](https://www.py4e.com/software-win.php).
-* If you are running a Mac, you should already have python. More information at [Python 4 Everyone](https://www.py4e.com/software-mac.php); if you don't have Python 3, check [here](http://docs.python-guide.org/en/latest/starting/install3/osx/).  
+* If you are running a Mac, you should already have python. More information at [Python for Everybody](https://www.py4e.com/software-mac.php); if you don't have Python 3, check [here](http://docs.python-guide.org/en/latest/starting/install3/osx/).  
 * Here is documentation about [managing packages](https://packaging.python.org/tutorials/installing-packages/#ensure-you-can-run-pip-from-the-command-line); one tool to do this on Mac is [Homebrew](https://brew.sh/).
 
 ## Command Line
