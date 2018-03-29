@@ -4,10 +4,12 @@ This section briefly overviews various types of data objects that you may encoun
 
 ## More Complex Types
 
-* string - a *sequence* of characters
+* string - a *sequence* of characters, usually denoted by round brackets ```()```
 * list - a mutable array of values, denoted by square brackets: ```[]```
 * dictionary - a list of key-value pairs, denoted by curly brackets: ```{}```
-* tuples - an efficient, immutable array of values, denoted by parentheses ```()```
+* tuples - an efficient, immutable array of values, denoted by round brackets, with individual values set off by single quotes ```('a', 'b')```
+
+To determine the type of an object, you can always use tye ```type()``` method.
 
 ### Credits
 This content generously draws up on the work of Charles Severance in [_Python for Informatics_](http://www.pythonlearn.com/book.php) and [Python for Everybody](https://www.py4e.com/). 
