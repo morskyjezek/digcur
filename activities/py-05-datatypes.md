@@ -7,7 +7,7 @@ This section briefly overviews various types of data objects that you may encoun
 * string - a *sequence* of characters, usually denoted by round brackets ```()```
 * [list](https://www.py4e.com/html3/08-lists) - a mutable array of values, denoted by square brackets: ```[]```
 * [dictionary](https://www.py4e.com/html3/09-dictionaries) - a list of key-value pairs, denoted by curly brackets: ```{}```
-* [tuples](https://www.py4e.com/html3/10-tuples) - an efficient, immutable array of values, denoted by round brackets, with individual values set off by single quotes ```('a', 'b')```
+* [tuple](https://www.py4e.com/html3/10-tuples) - an efficient, immutable array of values, denoted by round brackets, with individual values set off by single quotes ```('a', 'b')```
 
 To determine the type of an object, you can always use tye ```type()``` method.
 
