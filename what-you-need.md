@@ -30,5 +30,6 @@ Here are a few other resources:
 * [Script Ahoy!](https://github.com/dd388/crals)
 * [Storybench](http://www.storybench.org/about-storybench/)
 * [Programming Historian](https://programminghistorian.org/lessons/) 
+* David Birnbaum's [DH Course Resources](http://dh.obdurodon.org/)
 * https://github.com/ablwr/avpres-training
 * [Boston College DigSchool](https://github.com/BCDigSchol)
