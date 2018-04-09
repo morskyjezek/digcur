@@ -10,7 +10,7 @@ It has become a widely used tool to cleanup, transform, and modify tabular (and 
 
 ## Setup
 
-You will need to install OpenRefine, which can be downloaded at http://openrefine.org/download.html. The below information was written using OpenRefine 2.8 (November 2017 release).
+You will need to install OpenRefine, which can be downloaded at http://openrefine.org/download.html. The below information was written using OpenRefine 2.7.
 
 ### Installation
 
@@ -30,11 +30,11 @@ Let's walk through some of the basic operations that you can undertake with Open
 
 ### Import data
 
-First, let's import the data.
+First, let's import the data. When OpenRefine opens, you will see a sidebar at the left with the options "Create Project," "Open Project," "Import Project," and "Language Settings." *Select* the "Create Project" option. In the nested window, select the option to Get data from ... "This Computer." Click the "Choose Files" button, select the JSON file of 101 kittens, and click "Next >>".
 
 ### Filters and facets
 
-### Editing and Transformations
+### Edit and Transform
 
 #### Simple Split & Join cells
 
