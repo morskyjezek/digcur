@@ -36,20 +36,30 @@ Let's bring the data into OpenRefine. For this exercise, you can try two ways to
 
 2. You might also try to import the data directly from the API using an HTTP request. To do this, select the "Web Addresses (URLs)" option in the Get data from column. In the input box, enter the following URL: `https://www.loc.gov/photos/?fa=online-format:image&q=kittens&c=101&fo=json` (the one designed in the API activity). When you click "Next >>" you should see the option to select the level of the file that you want OpenRefine to see as the "record" (akin to a row in a spreadsheet). In this case, you want to scan the JSON for the "record" element level. When you mouse over this level, you should see the section corresponding to an item in the catalog is highlighted. When you click, you should see a preview of the first few records that would be created. When this looks correct, click through to open the project.
 
-Now, we are read to work on the data. 
+Now, we are ready to work on the data. For the activities described below, use the "Row" view.
+
+One of the things that makes OpenRefine useful is its capacity to use complex rules and apply them over a large range of values.
+In other words, it is a powerful batch editing tool that can help you to get, cleanup, and augment data. You might use it, say, to check metadata for inconsistencies or make changes to many values based on strict rules. We will take a look at the basic tools for filtering, editing, and transforming data.
 
 ### Filters and facets
+Filters and facets help to display or hide particular subsets of data according to specific criteria. For example, you can use a basic filter to remove rows that have a blank first cell. Click on the arrow to the left of the column name, select `[?]` and click [blank]. Let's "Undo" this action for now, because there is information in the hidden rows that we want.
+
+Facets allow you to get an aggregate view of all the values in a given range, and if desired, to make batch edits on this information. *For example, if we want to take a look at the subject terms,*
 
 ### Edit and Transform
+*OpenRefine also provides powerful options to edit cells and transform their data in bulk, or batch editing options.*
 
-#### Simple Split & Join cells
+#### Transform to Titlecase
+Let's take a look at a few simple ways to do this. Look for the column titled `_ - contributor - contributor`. You might notice that everything is lowercase. Click on the arrow next to the column title, choose "Edit cells >" then "Common transforms >" and then "To titlecase." Now, most of the words, which were all lowercase before, will appear to be names with an initial capital.
+
+#### Simple Joins & Splits
+*Join together subjects with ";" separator.*
 
 #### GREL for more complex operations
-
-#### Clustering
+*Change ISO date to YYYYMMDD or MM/DD/YYYY*
 
 ### Exporting data
-
+*Export to `csv`.*
 
 
 ## Another Example
@@ -59,9 +69,10 @@ grants from a funder in the cultural heritage sector. The National Endowment for
 Humanities has put up information about its awarded funds on [data.gov](http://data.gov/),
 which can be accessed here. For the purposes of this example, let's take a look at the file with
 information about the 1960s at https://catalog.data.gov/dataset/neh-grant-data-1966-1969-flattened. Note: this is a "flattened" version of the data, which does not include nested subfields; multiple values are separated by semi-colon, instead
-of being separated into multiple subfields. You should receive the data in XML format.
+of being separated into multiple subfields. You should receive the data in XML format. (Even though this is "flattened," the same data is in the file; you could, in fact, probably recreate the nested version using cell splits.)
 
-### Basic editing: Split and Join
+### Clustering
+*Use on grant programs.*
 
 ## Resources
 
