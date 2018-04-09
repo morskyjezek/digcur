@@ -24,8 +24,40 @@ Let's take the Library of Congress web service as an example. You can find their
 https://www.loc.gov/search/?in=&q=kittens&new=true&st=
 ```
 
-* Library of Congress API Documentation: https://libraryofcongress.github.io/data-exploration/index.html
+To understand how to structure a call to the API, you might think of the URL in two parts: first, an "endpoint" URL, then following question mark, a series of queries that specify values for given variables. For example, you may notice that the query string `kittens` appears following `q=`. Thus, it seems that the server is responding to our search and assigning the search request to a variable `q`. So you might think of the URL as a request containing a few variables, represented here with the following variables on new lines to draw attention to them:
 
+```http
+https://www.loc.gov/search/
+?in=
+&q=kittens
+&new=true
+&st=
+```
+
+We might, therefore, think of this as a series of variable assignments encoded in the URL. Notice that some of the variables are blank. In this case, these are optional variables and they need not be included in every request. The most important thing to note is the `q` variable, since it contains the most critical information: our desired query. This pattern of using a URL to pass in variables with an HTTP request is quite common, and although in many cases where you see this it is up to you to guess or infer what each variable is and what it might do, a well-maintained API should offer some explanation of what you can ask for. In this case, the Library of Congress makes information about URL requests available through short documentation at
+https://libraryofcongress.github.io/data-exploration/index.html. The documentation tells us that although the default form of requests is HTML, resopnses can also be requested in JSON using the `fo` variable. Thus, if we wanted to get the a list of the items related to "kittens" in Library's catalog in a structured data form, we could make a request as follows:
+
+```http
+https://www.loc.gov/search?q=kittens&fo=json
+```
+
+As you become more familiar with the URL request formats, you can continue to add variables to better focus requests. For example, if you wanted to find only items that digitized photographs, you can add in multiple `fa` parameters; the number of results per set, likewise, can be changed using the `c` variable. More complex requests might be constructed as follows:
+
+```http
+https://www.loc.gov/search?q=kittens&fo=json&fa=online-format:image|original-format:photo,+print,+drawing&c=101
+```
+
+Appending the `/{format}/?` subdirectory to the original endpoint, you can simplify the query as follows:
+
+```http
+https://www.loc.gov/photos/?fa=online-format:image&q=kittens&c=101&fo=json
+```
+
+If you save the response as a file, you can open it in a text editor or browser to view the JSON structure. You may note that it contains much more information than just the results: it has data that is used to construct the page, such as the breadcrumb, the pagination of each page, and the list of search facets.
+
+## Automating the Data Retrieval with Python  
+
+Let's write a program that will query the API endpoint and write the results into a JSON file and/or CSV. 
 
 ### Credits and Resources
 
