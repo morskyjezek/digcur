@@ -22,15 +22,15 @@ When you download the Windows version, you will have a zip, and Mac/Linux will g
 
 The program runs within a web browser. A browser window may automatically open, but if it does not, you can access the program by opening the address http://127.0.0.1:3333 in a browser window.
 
-To follow along the basics below, you can use the JSON data that we gathered in the API exercise [linked here]('/assets/loc-101-kittens.json').
+To follow along the basics below, you can use the JSON data that we gathered in the API exercise [linked here](../assets/loc-101-kittens.json).
 
 ## Basic Operations
 
-Let's walk through some of the basic operations that you can undertake with OpenRefine. 
+Let's walk through some of the basic operations that you can undertake with OpenRefine.
 
 ### Import data
 
-First, let's
+First, let's import the data.
 
 ### Filters and facets
 
