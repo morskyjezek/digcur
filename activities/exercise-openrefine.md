@@ -30,7 +30,13 @@ Let's walk through some of the basic operations that you can undertake with Open
 
 ### Import data
 
-First, let's import the data. When OpenRefine opens, you will see a sidebar at the left with the options "Create Project," "Open Project," "Import Project," and "Language Settings." *Select* the "Create Project" option. In the nested window, select the option to Get data from ... "This Computer." Click the "Choose Files" button, select the JSON file of 101 kittens, and click "Next >>".
+Let's bring the data into OpenRefine. For this exercise, you can try two ways to do this.
+
+1. When OpenRefine opens, you will see a sidebar at the left with the options "Create Project," "Open Project," "Import Project," and "Language Settings." *Select* the "Create Project" option. In the nested window, select the option to Get data from ... "This Computer." Click the "Choose Files" button, select the JSON file of 101 kittens, and click "Next >>".
+
+2. You might also try to import the data directly from the API using an HTTP request. To do this, select the "Web Addresses (URLs)" option in the Get data from column. In the input box, enter the following URL: `https://www.loc.gov/photos/?fa=online-format:image&q=kittens&c=101&fo=json` (the one designed in the API activity). When you click "Next >>" you should see the option to select the level of the file that you want OpenRefine to see as the "record" (akin to a row in a spreadsheet). In this case, you want to scan the JSON for the "record" element level. When you mouse over this level, you should see the section corresponding to an item in the catalog is highlighted. When you click, you should see a preview of the first few records that would be created. When this looks correct, click through to open the project.
+
+Now, we are read to work on the data. 
 
 ### Filters and facets
 
