@@ -6,7 +6,7 @@
   * Examples: [Atom](https://atom.io/) (various), [Notepad++](https://notepad-plus-plus.org/) (Windows), [TextWrangler](http://www.barebones.com/products/textwrangler/) (Mac), [Brackets](http://brackets.io/) (Mac)
 * If you're using a web browser like Chrome, you may want to download an extension to help display and parse JSON. To find one, just search for json at the Chrome extension store. Some browsers, like Firefox, will display JSON in a more readable format without an extension.
   * Example: [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/aimiinbnnkboelefkjlenlgimcabobli), etc. 
-* Anaconda distribution for Python 3.6, which includes tools for writing python code and also jupyter notebooks, [download here](https://www.anaconda.com/download/)
+* [Anaconda](https://www.anaconda.com/download/) distribution for Python 3.6, which includes tools for writing python code and also jupyter notebooks.
 * [Open Refine](http://openrefine.org/download.html), a free tool for manipulating data, it will run in your browser but you may need to follow this guide to get it up and running
 * [Bagger](https://github.com/LibraryOfCongress/bagger#installing), a free tool for packaging data, which will create a metadata file, manifest of contents, and generate integrity information (checksums); this tool will also require [Java](https://java.com/) 
 * A healthy outlook of exploration and self-sufficiency. Things won't always work as you think they will or as explained, sometimes breaking things is a way to learn. So don't worry if you get some error messages, things don't work out on the first try, or there are some frustrations along the way. Exploration is part of the learning process. 
