@@ -72,12 +72,14 @@ information about the 1960s at https://catalog.data.gov/dataset/neh-grant-data-1
 of being separated into multiple subfields. You should receive the data in XML format. (Even though this is "flattened," the same data is in the file; you could, in fact, probably recreate the nested version using cell splits.)
 
 ### Clustering
-*Use on grant programs.*
+*Try on programs column.*
 
 ## Resources
 
 * [OpenRefine Tutorial in pdf from UMD CASCI Center](https://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf), more videos [here](https://casci.umd.edu/research-resource/data-manipulation-tools/openrefine/)
 * [GREL reference](https://github.com/OpenRefine/OpenRefine/wiki/General-Refine-Expression-Language)
 * [OpenRefine Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes) (examples for performing common operations, like removing rows, transforming data with GREL examples, etc)
+* Sarah Weeks and Elissah Becknell, "Using OpenRefine" ([ALA ALCTS Webinar](http://www.ala.org/alcts/confevents/upcoming/webinar/091813))
+* Michael J. Carroll, "Metadata Cleanup Made Easy with OpenRefine," [web resources on PA Digital](https://padigital.org/2017/10/31/metadata-cleanup-made-easy-with-openrefine/) (October 2017)
 * Thomas Padilla, "Getting Started with OpenRefine" at http://thomaspadilla.org/dataprep/
 * [Library Carpentry OpenRefine tutorial](http://data-lessons.github.io/library-openrefine/)
