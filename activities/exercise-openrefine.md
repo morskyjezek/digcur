@@ -4,7 +4,9 @@
 
 OpenRefine is
 
-> a standalone open source desktop application for data cleanup and transformation to other formats. [Wikipedia](https://en.wikipedia.org/wiki/OpenRefine "cited March 7, 2018")
+> a standalone open source desktop application for data cleanup
+> and transformation to other formats.
+> [Wikipedia](https://en.wikipedia.org/wiki/OpenRefine "cited March 7, 2018")
 
 It has become a widely used tool to cleanup, transform, and modify tabular (and other types of) data in bulk. Its capabilities for batch editing and powerful methods and parsing capabilities make it useful for performing metadata transformations and other data wrangling activities that may be undertaken by digital stewards in a digital library environment.
 
