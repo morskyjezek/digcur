@@ -73,5 +73,6 @@ Bagger uses a JSON file to configure the information that
 
 ### Resources
 See these additional resources for more detailed information:
+* State Archives of North Carolina, "[Bagger GUI User Guide](https://files.nc.gov/dncr-archives/documents/files/using_bagger.pdf)" (Updated 2012, v. 1.5), available as of March 2018.
 * M. Phillips, ["What do we put in our BagIt bag-info.txt files?"](https://vphill.com/journal/post/4142/) (2015).
 * UNT Libraries, UNT OAIS Information Package Specification (2015), https://www.library.unt.edu/sites/default/files/documents/digital-libraries-uploads/Appendix_M_UNT_Libraries_OAIS_Information_Package_Specification.pdf
