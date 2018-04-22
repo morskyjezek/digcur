@@ -1,6 +1,6 @@
 import json
 
-with open('/Users/ricardolpunzalan/Desktop/digcur/assets/loc-101-kittens.json','r') as f:
+with open('loc-101-kittens.json','r') as f:
     data = json.load(f)
 
     print(type(data))
@@ -13,5 +13,5 @@ for result in data['results']:
 
 print('Counted',count,'items')
 
-with open('/Users/ricardolpunzalan/Desktop/digcur/assets/loc-101-kittens-readable-results.json','w') as f:
+with open('loc-101-kittens-readable-results.json','w') as f:
     json.dump(data['results'], f, indent=2)
