@@ -1,7 +1,5 @@
 # Basics of Geospatial Information Visualization 
 
-## What is Geospatial Information?
-
 Geospatial data is processed and visualized by suites of Geographic Information Systems (GIS) tools. Such 
 tools may capture, store, manipulate, analyze, manage, or present spatial or geographic data. [Wikipedia](https://en.wikipedia.org/wiki/Geographic_information_system "cited April 26, 2018")
 
