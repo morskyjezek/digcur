@@ -10,11 +10,11 @@ Reserved words
 
 ## Statements
 
-Statements are "unit[s] of code that the Python interpreter can execute" [py4e] [1]. Above, for example, the assignment of a value to a variable is an assignment statement. The functions, like `print()`, are also statements. Statements often correspond to the line or two of input that you might make use of
+Statements are "unit[s] of code that the Python interpreter can execute".[1] Above, for example, the assignment of a value to a variable is an assignment statement. The functions, like `print()`, are also statements. Statements often correspond to the line or two of input that you might make use of
 in interactive mode. Statements are often placed on a single line in python, while
 dependent statements or conditionals that become part of a larger loop are placed
 on the next line and indented. Various guides for the style of code writing in python are
-given in the "Style Guide for Python Code" [PEP8] [2].
+given in the "Style Guide for Python Code".[2]
 
 ## Types
 
