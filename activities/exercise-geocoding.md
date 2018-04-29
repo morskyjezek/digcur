@@ -27,7 +27,7 @@ Bring the data into a new Fusion Table.
 
 FusionTables offer various ways to view the data, and also some useful manipulation tools. For the purposes of this activity, we are going to work on generating and applying location tags for each of the frog recordings. Note that some of the cells should be highlighted with yellow. This indicates that the table might find some geographical informaiton 
 
-Through this process, you should be able to create a map like this: https://www.google.com/maps/d/edit?hl=en&mid=1FiQS9l1bP1exRK3FlZtVXsXYXK0&ll=43.40955519671121%2C-104.34256549999998&z=3. 
+Through this process, you should be able to create a map like this: https://drive.google.com/open?id=1FiQS9l1bP1exRK3FlZtVXsXYXK0&usp=sharing. 
 
 ## Additional Resources
 
