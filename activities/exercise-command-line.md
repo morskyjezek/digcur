@@ -54,4 +54,4 @@ Can you answer these questions? Open a window that gives you access to the comma
 See these additional resources for more detailed information:
 * B. Lyons, [Introduction to Using the Command Line Interface](https://www.weareavp.com/an-introduction-to-using-the-command-line-interface-to-work-with-files-and-directories/) (2014); versions for both MAC and Windows OS.
 * C. Severance, _Python for Everybody_: tips for [Mac](https://www.py4e.com/software-mac.php), tips for [Windows](https://www.py4e.com/software-win.php).
-* (Copy, Create, Rename and Remove Unix Directories)[http://documentation.its.umich.edu/node/295]
+* [Copy, Create, Rename and Remove Unix Directories](http://documentation.its.umich.edu/node/295)
