@@ -28,6 +28,8 @@ Here are a few other resources:
 
 * [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) from _Learn Python the Hard Way_.
 * [Script Ahoy!](https://github.com/dd388/crals) offers explanations of many command line operations and [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) scripting.
+* [ffmproviser](https://amiaopensource.github.io/ffmprovisr/) a bash resource for running AV operations using FFmpeg
+* [explainshell.com](https://explainshell.com/) an interactive resource that can help you to understand and analyze combinations of shell commands
 
 ## Additional tutorials that try to do similar things, in archives, libraries, &c.
 
