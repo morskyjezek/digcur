@@ -22,6 +22,10 @@ given in the "Style Guide for Python Code".[2]
 
 A few lines combination of expressions that asks for input and makes a calculation.  
 
+### More Practice
+
+Find basic, interactive problems and practice activities here: https://codingbat.com/python 
+
 ### Credits
 This content generously draws up on the work of Charles Severance in [_Python for Informatics_](http://www.pythonlearn.com/book.php) and [Python for Everybody](https://www.py4e.com/).
 
