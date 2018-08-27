@@ -1,6 +1,6 @@
 # LCWA MODS
 
-This folder has a python notebook with information about downloading MODS
+This folder has a python notebook with information about downloading [MODS](http://www.loc.gov/standards/mods/)
 metadata for use as sample data to practice parsing XML in python. These sample
 files were generated in August of 2018 from MODS metadata records for archived
 Web sites collected by the Library of Congress:
