@@ -16,5 +16,5 @@ These have LCSH in `<subject>`:
 
 `lcwaN0010888,lcwaN0010226,lcwaN0009692,lcwaN0009700,lcwaN0010401`
 
-These are election sites that include `<subject>` with both lcsh and local:
+These are election sites that include `<subject>` with both [lcsh](https://en.wikipedia.org/wiki/LCSH) and "local" headings noted as "lcwat", which represent a taxonomy that was developed for the quick categorization of sites during the nomination and harvesting process:
 `lcwaE0008846,lcwaE0008263,lcwaE0008338,lcwaE0008918,lcwaE0008001`
