@@ -40,8 +40,3 @@ Here are a few other resources:
 * [Boston College DigSchool](https://github.com/BCDigSchol)
 * New York [Digital Humanities Research Institute curricula](http://dhinstitutes.org/june_2018_curriculum.html)
 * Greg Wiedeman, [Python4Archivists](https://github.com/gwiedeman/python4archivists)
-
-### Tutorial resources for specific tools and activities
-* [Script Ahoy!](https://github.com/dd388/crals)
-* [Explain Shell](https://explainshell.com/)
-* [FFMProviser](https://amiaopensource.github.io/ffmprovisr/)
