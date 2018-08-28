@@ -39,3 +39,4 @@ Here are a few other resources:
 * David Birnbaum's [DH Course Resources](http://dh.obdurodon.org/)
 * https://github.com/ablwr/avpres-training
 * [Boston College DigSchool](https://github.com/BCDigSchol)
+* Greg Wiedeman, [Python4Archivists](https://github.com/gwiedeman/python4archivists)
