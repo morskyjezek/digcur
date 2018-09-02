@@ -26,6 +26,8 @@ A few lines combination of expressions that asks for input and makes a calculati
 
 Find basic, interactive problems and practice activities here: https://codingbat.com/python 
 
+An additional resource is the open [Python Textbook](https://python-textbok.readthedocs.io/en/1.0/index.html).
+
 ### Credits
 This content generously draws up on the work of Charles Severance in [_Python for Informatics_](http://www.pythonlearn.com/book.php) and [Python for Everybody](https://www.py4e.com/).
 
