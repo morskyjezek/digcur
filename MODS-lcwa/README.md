@@ -1,5 +1,7 @@
 # LCWA MODS
 
+_*NB:* This was forked into its own repo for distribution to a Library Carpentry workshop in September 2018: https://github.com/morskyjezek/LCWA-MODS._
+
 This folder has a python notebook with information about downloading
 [MODS](http://www.loc.gov/standards/mods/) records for use as sample data to
 practice parsing XML in python. These sample files were generated in August of
