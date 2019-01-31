@@ -21,8 +21,10 @@ You should be working in a version of Python 3.X.
 * If you are running a Mac, you should already have python. More information at [Python for Everybody](https://www.py4e.com/software-mac.php); if you don't have Python 3, check [here](http://docs.python-guide.org/en/latest/starting/install3/osx/).  
 * Here is documentation about [managing packages](https://packaging.python.org/tutorials/installing-packages/#ensure-you-can-run-pip-from-the-command-line); one tool to do this on Mac is [Homebrew](https://brew.sh/).
 
-## Command Line
-While not the most intuitive way to interact with your computer and files, learning how to interact with the command line can be a quick and efficient way to extract metadata and design batch processes. While it may take a bit of practice to pick up, command line basics can be useful. You can use the [Command Line module to explore basics](/activities/exercise-command-line.md).
+## Shell (aka Command Line)
+While not the most intuitive way to interact with your computer and files, learning how to work with files in a shell environment is a common task of many digital curators. Learning to interact with the computer via the text-based command line can be a quick and efficient way to extract metadata and design batch processes. While it may take a bit of practice to pick up, command line basics can be useful. You can use the [Command Line module to explore basics](/activities/exercise-command-line.md).
+
+**Note:** the course will assume working in a [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) environment, which you can access through the Terminal on MAC OS or Linux. If you are working in Windows, please try using [CygWin](https://www.cygwin.com/), which will emulate the BASH shell. 
 
 Here are a few other resources:  
 
