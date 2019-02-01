@@ -3,9 +3,10 @@
 ## Things you'll need
 
 * A text editor that helps you with code and markup
-  * Examples: [Atom](https://atom.io/) (various), [Notepad++](https://notepad-plus-plus.org/) (Windows), [TextWrangler](http://www.barebones.com/products/textwrangler/) (Mac), [Brackets](http://brackets.io/) (Mac)
+  * Examples: [Atom](https://atom.io/) (various), [Notepad++](https://notepad-plus-plus.org/) (Windows), [Brackets](http://brackets.io/) (Mac)
   * Some of these editors, like Atom, will allow you to interact directly with a Git repository, to networks via FTP/SFTP, or other means, so that you can edit remote files.
-* [Anaconda](https://www.anaconda.com/download/) distribution with the latest version of Python, which includes tools for writing python code and also jupyter notebooks.
+* [Anaconda](https://www.anaconda.com/download/) distribution with the latest version of Python, which includes tools for writing python code and also jupyter notebooks. Make sure to get the version for Python 3.X. The download link will probably take you to the correct version for your operating system, but it is worth double checking that you are download a version for Windows if you use Windows, Mac if you use Mac OS.
+* IF YOU USE WINDOWS: [Cygwin](https://cygwin.com/install.html). This is a program that will help to emulate the shell environment that we will use to explore the command line interface. We will not use this extensively, however, it is useful to gain familiarity with this type of interface since it is a common way to interact with virtual machines (i.e., remote servers that you might have to interact with to store collections on servers or interact with websites.
 * If you're using a web browser like Chrome, you may want to download an extension to help display and parse JSON. To find one, just search for json at the Chrome extension store. Some browsers, like Firefox, will display JSON in a more readable format without an extension.
   * Example: [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/aimiinbnnkboelefkjlenlgimcabobli), etc.
 * [Open Refine](http://openrefine.org/download.html), a free tool for manipulating data, it will run in your browser but you may need to follow this guide to get it up and running
@@ -14,7 +15,7 @@
 * Patience. Testing and troubleshooting can be frustrating and time consuming, so sometimes you may just need to [trust that you're moving in the right direction](https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329), and also because tools and collections will continually be changing, so there is [always something new to learn](https://medium.freecodecamp.org/this-is-what-ive-gathered-after-a-year-of-teaching-myself-to-code-9e46bb60db9)
 
 ## Python
-You should be working in a version of Python 3.X.
+You should be working in a version of Python 3.X. If you download Anaconda (see above), you will have easy access to Python right away, and if you use Mac, it is installed on your machine already. If yo uuse Windows, you will need to install python (see link below for instructions).
 
 * For a general overview of Python, with special attention to the needs of information professionals, [Python 4 Everyone](https://www.py4e.com/) by Charles Severance is a useful resource.
 * If you are running Windows, see these [instructions from Python 4 Everyone](https://www.py4e.com/software-win.php).
