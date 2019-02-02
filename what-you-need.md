@@ -3,7 +3,8 @@
 ## Things you'll need
 
 * A text editor that helps you with code and markup
-  * Examples: [Atom](https://atom.io/) (various), [Notepad++](https://notepad-plus-plus.org/) (Windows), [Brackets](http://brackets.io/) (Mac)
+  * Recommended: [Atom](https://atom.io/) (various OS including MAC & Windows) 
+  * Other Examples: [Notepad++](https://notepad-plus-plus.org/) (Windows), [Brackets](http://brackets.io/) (Mac), and many others
   * Some of these editors, like Atom, will allow you to interact directly with a Git repository, to networks via FTP/SFTP, or other means, so that you can edit remote files.
 * [Anaconda](https://www.anaconda.com/download/) distribution with the latest version of Python, which includes tools for writing python code and also jupyter notebooks. Make sure to get the version for Python 3.X. The download link will probably take you to the correct version for your operating system, but it is worth double checking that you are download a version for Windows if you use Windows, Mac if you use Mac OS.
 * IF YOU USE WINDOWS: [Cygwin](https://cygwin.com/install.html). This is a program that will help to emulate the shell environment that we will use to explore the command line interface. We will not use this extensively, however, it is useful to gain familiarity with this type of interface since it is a common way to interact with virtual machines (i.e., remote servers that you might have to interact with to store collections on servers or interact with websites.
