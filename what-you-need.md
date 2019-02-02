@@ -3,7 +3,7 @@
 ## Things you'll need
 
 * A text editor that helps you with code and markup
-  * Recommended: [Atom](https://atom.io/) (various OS including MAC & Windows) 
+  * Recommended: [Atom](https://atom.io/) (various OS including Mac & Windows) 
   * Other Examples: [Notepad++](https://notepad-plus-plus.org/) (Windows), [Brackets](http://brackets.io/) (Mac), and many others
   * Some of these editors, like Atom, will allow you to interact directly with a Git repository, to networks via FTP/SFTP, or other means, so that you can edit remote files.
 * [Anaconda](https://www.anaconda.com/download/) distribution with the latest version of Python, which includes tools for writing python code and also jupyter notebooks. Make sure to get the version for Python 3.X. The download link will probably take you to the correct version for your operating system, but it is worth double checking that you are download a version for Windows if you use Windows, Mac if you use Mac OS.
@@ -12,11 +12,11 @@
   * Example: [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/aimiinbnnkboelefkjlenlgimcabobli), etc.
 * [Open Refine](http://openrefine.org/download.html), a free tool for manipulating data, it will run in your browser but you may need to follow this guide to get it up and running
 * OPTIONAL [Bagger](https://github.com/LibraryOfCongress/bagger#installing), a free tool for packaging data, which will create a metadata file, manifest of contents, and generate integrity information (checksums); this tool will also require [Java](https://java.com/)
-* A healthy outlook of exploration and self-sufficiency. Things won't always work as you think they will or as explained, sometimes breaking things is a way to learn. So don't worry if you get some error messages, things don't work out on the first try, or there are some frustrations along the way. Exploration is part of the learning process.
+* A healthy outlook of exploration and self-confidence. Things won't always work as you think they will or as explained. Learning often doesn't happen by doing things "the right way," but rather through doing and exploring. So don't worry if you get some error messages, things don't work out on the first try, or there are some frustrations along the way. Exploration is part of the learning process, and exercising persistence may be rewarding.
 * Patience. Testing and troubleshooting can be frustrating and time consuming, so sometimes you may just need to [trust that you're moving in the right direction](https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329), and also because tools and collections will continually be changing, so there is [always something new to learn](https://medium.freecodecamp.org/this-is-what-ive-gathered-after-a-year-of-teaching-myself-to-code-9e46bb60db9)
 
 ## Python
-You should be working in a version of Python 3.X. If you download Anaconda (see above), you will have easy access to Python right away, and if you use Mac, it is installed on your machine already. If yo uuse Windows, you will need to install python (see link below for instructions).
+You should be working in a version of Python 3.X. If you download Anaconda (see above), you will have easy access to Python right away, and if you use Mac, it is installed on your machine already. If you use Windows, you will need to install python (see link below for instructions).
 
 * For a general overview of Python, with special attention to the needs of information professionals, [Python 4 Everyone](https://www.py4e.com/) by Charles Severance is a useful resource.
 * If you are running Windows, see these [instructions from Python 4 Everyone](https://www.py4e.com/software-win.php).
