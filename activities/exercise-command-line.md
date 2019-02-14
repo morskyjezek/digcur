@@ -11,14 +11,35 @@ Keep in mind the difference between the command line and the visual interfaces t
 _Note: where you see “Mac” below, this generally designates a UNIX-wide command, “Windows” is generally DOS-like._
 
 ## General Actions
+As of 2019, this tutorial is being adapted to working in a UNIX environment using the bash shell.
+Bash commands have a typical syntax structure, which can be summarized like this:
+
+```
+command options arguments
+```
+
+The **command** is the short bit of text that you use to invoke a program, such as `ls`,
+`mkdir`, or `find`. The **options** are additional flags that give the program more
+information about what you want it to do (e.g. `ls -a` or `mkdir -v`),
+or allow you provide additional information (e.g., `find -type f`). Finally, **arguments**
+are where you provide the program with information, often a file or file path. For example,
+`ls` requires the filepath of the location in which you want the files listed.
+
+There are many commands, some of which are covered below. It can be confusing at first
+to remember all of the different commands, but don't worry - you're not alone, and
+there are a lot of options to find out more information. One easy way to get more
+details within the shell is to use `man` (short for manual), which will bring up
+documentation for the command, which you have provided as an argument. For example,
+`man find` tells you all about the ways you can use `find`. 
 
 ### Navigation
 * determining where you are (Mac: `pwd` / Windows: `cd`)
-* moving within the directory structure (``cd``)
+* moving within the directory structure (`cd`)
+* moving files (`mv`)
 
 ### Managing Files
 * creating directories (`mkdir`)
-* viewing/opening files (Mac: open / Windows: <type the file>; OR viewers like less(Mac)/more(Win); OR editors: vi, ted and notepad)
+* viewing/opening files (Mac: open / Windows: <type the file>; OR viewers like less(Mac)/more(Win); OR editors: vi, nano, ted and notepad)
 * copying/moving files (Mac: `cp` / `mv` / Windows: copy con/move)
 
 ### Create File Lists
@@ -38,20 +59,20 @@ _Note: where you see “Mac” below, this generally designates a UNIX-wide comm
 
 ## Reflection Activity
 Can you answer these questions? Open a window that gives you access to the command line:
-* What is the name of the directory or folder that you are in?
+* What is the name of the directory or folder that you are in? What command would you use to answer this question?
 * How would you move to another directory or folder?
 * Can you list the contents of the directory or folder?
 * Can you get a basic list and an advanced list (that shows permissions, file size, path, etc)?
 
-* What is the basic command for listing items in a folder or directory? Please give both Mac and Windows commands.
-* What are some basic differences between command line on Mac & Windows?
+* What is the basic command for listing items in a folder or directory?
 * Use the command line to generate a list of files in a directory that is output to a file. List the command that you would use on your system below (and specify what system you’re using).
 * In what sorts of situations do you think that the command line interface would be useful or advantageous over the GUI? Give at least one example.
 * Do you feel more comfortable using the command line? Why or why not?
 
 
-### Credits
+### Credits and Additional Resources
 See these additional resources for more detailed information:
+
 * B. Lyons, [Introduction to Using the Command Line Interface](https://www.weareavp.com/an-introduction-to-using-the-command-line-interface-to-work-with-files-and-directories/) (2014); versions for both MAC and Windows OS.
 * C. Severance, _Python for Everybody_: tips for [Mac](https://www.py4e.com/software-mac.php), tips for [Windows](https://www.py4e.com/software-win.php).
 * [Copy, Create, Rename and Remove Unix Directories](http://documentation.its.umich.edu/node/295)
