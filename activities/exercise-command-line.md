@@ -32,6 +32,8 @@ details within the shell is to use `man` (short for manual), which will bring up
 documentation for the command, which you have provided as an argument. For example,
 `man find` tells you all about the ways you can use `find`.
 
+Another useful, and user-friendly, resource for searching for commands is [Explain Shell](https://explainshell.com/). A resource geared specifically toward archivists and librarians is the [_Script Ahoy_](https://dd388.github.io/crals/) resource.
+
 ### Navigation
 * determining where you are (Mac: `pwd` / Windows: `cd`)
 * moving within the directory structure (`cd`)
@@ -60,7 +62,7 @@ documentation for the command, which you have provided as an argument. For examp
 * `df` gives information about the file system usage
 * `md5` creates an md5 checksum value
 * `hexdump` gives a hex view of the file, useful for searching for magic numbers
-* `vi` is an editor but it can be used to open up binary files for inspection 
+* `vi` is an editor but it can be used to open up binary files for inspection
 
 ### General Rules of Thumb
 * Know the basic architecture of the file structure environment (some places you’ll expect many directories/folders, others you will expect mostly files)
