@@ -41,6 +41,7 @@ Mathematical expressions may evaluate according to usual math functions, such as
 Other "comparison operators" allow you to evaluate two things to return a single value known as a Boolean value, which python will evaluate as either `True` or `False`. Here are the comparison operators
 
 | Operator | Meaning |
+| ----- | ----- |
 | != | Not equal |
 | == | Equal / equivalent |
 | >  | greater than |
@@ -89,7 +90,7 @@ for cheese in cheeses:
 1. What are the types of these variables: `mascot = 'Testudo'`, `founded = 1856`, `cheeses = ['brie', 'gouda', 'mozarella']`. Hint: use the built-in `type()` function to determine the data type.
 1. Python has a built-in function `input()` that allows you to ask the user for input. To add a prompt to the input, you can place a string inside the parentheses as an argument, like so: `input('What is your name?')`. Write a short program that prompts the user for their name, then outputs a greeting. Use the `say_hello()` function from last week as a model. _Hints: you can assign the input to a variable. Then, use a function you define or the `print()` function to produce a greeting with the new variable that you created._  
 
-<!-- 1. We saw that each line in a python program evaluates and can produce a result. This can be some sort of output that we could use again, and it could also be a Boolean value (that is, `True` or `False`). What are the results of the following statements, and what do you think is happening? Use the python notebook to evaluate each statement: 
+<!-- 1. We saw that each line in a python program evaluates and can produce a result. This can be some sort of output that we could use again, and it could also be a Boolean value (that is, `True` or `False`). What are the results of the following statements, and what do you think is happening? Use the python notebook to evaluate each statement:
 1.  We talked about how each line may be an expression, and python will evaluate each expression. This can be an output, but it also can be a Boolean condition (`True` or `False`). Using the comparison operators and the Boolean values, record the results of the following expressions:
   * (5 > 4) and () -->
 
