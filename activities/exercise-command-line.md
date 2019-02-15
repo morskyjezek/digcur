@@ -35,13 +35,13 @@ documentation for the command, which you have provided as an argument. For examp
 Another useful, and user-friendly, resource for searching for commands is [Explain Shell](https://explainshell.com/). A resource geared specifically toward archivists and librarians is the [_Script Ahoy_](https://dd388.github.io/crals/) resource.
 
 ### Navigation
-* determining where you are (Mac: `pwd` / Windows: `cd`)
+* determining where you are (Unix: `pwd` / DOS: `cd`)
 * moving within the directory structure (`cd`)
 * moving files (`mv`)
 
 ### Managing Files
 * creating directories (`mkdir`)
-* viewing/opening files (Mac: open / Windows: <type the file>; OR viewers like less(Mac)/more(Win); OR editors: vi, nano, ted and notepad)
+* viewing/opening files (Unix: open / DOS: <type the file>; OR viewers like less(Unix)/more(Win); OR editors: vi, nano, ted and notepad)
 * copying/moving files (Mac: `cp` / `mv` / Windows: copy con/move)
 
 ### Create File Lists
