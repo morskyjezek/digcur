@@ -22,7 +22,7 @@ The **command** is the short bit of text that you use to invoke a program, such 
 `mkdir`, or `find`. The **options** are additional flags that give the program more
 information about what you want it to do (e.g. `ls -a` or `mkdir -v`),
 or allow you provide additional information (e.g., `find -type f`). Finally, **arguments**
-are where you provide the program with information, often a file or file path. For example,
+are where you provide the program with information and input, often a file or file path. For example,
 `ls` requires the filepath of the location in which you want the files listed.
 
 There are many commands, some of which are covered below. It can be confusing at first
@@ -30,7 +30,7 @@ to remember all of the different commands, but don't worry - you're not alone, a
 there are a lot of options to find out more information. One easy way to get more
 details within the shell is to use `man` (short for manual), which will bring up
 documentation for the command, which you have provided as an argument. For example,
-`man find` tells you all about the ways you can use `find`. 
+`man find` tells you all about the ways you can use `find`.
 
 ### Navigation
 * determining where you are (Mac: `pwd` / Windows: `cd`)
@@ -49,7 +49,18 @@ documentation for the command, which you have provided as an argument. For examp
   * recursion (-R or /s)
   * details (-l) (Mac only; you won’t need this on windows)
   * NB: these are just a few useful operators, there are many others!
+* So, a basic UNIX command that lists file details and the hidden files is `ls -la`.
+* You can further define a specific path if you want the command to list files in another directory: `la -la /{MY Directory}/{MY subdirectory}`
 * outputting lists (print to file: `>`)
+
+### Finding files
+* the `find` command is a useful way to find files
+
+### Other commands of interest
+* `df` gives information about the file system usage
+* `md5` creates an md5 checksum value
+* `hexdump` gives a hex view of the file, useful for searching for magic numbers
+* `vi` is an editor but it can be used to open up binary files for inspection 
 
 ### General Rules of Thumb
 * Know the basic architecture of the file structure environment (some places you’ll expect many directories/folders, others you will expect mostly files)
