@@ -71,13 +71,11 @@ Another useful, and user-friendly, resource for searching for commands is [Expla
 * Don't be afraid of the command line, do be cautious: there are not always built-in safeguards as in the GUI environment. If you delete something from the command line, for example, it will not be moved to the trash before deletion - it will be removed immediately. This is not a cause for alarm, but it is a reminder to make sure you are doing exactly what you want, know how to do it (or ask someone who does), and don't proceed too quickly.
 
 ## Reflection Activity
-Can you answer these questions? Open a window that gives you access to the command line:
-* What is the name of the directory or folder that you are in? What command would you use to answer this question?
-* How would you move to another directory or folder?
+Can you answer these questions?
+* Imagine that you have opened a window that gives access to the command line. What is the path of the directory or folder that you are in? What command would you use to answer this question?
+* What command would you use to move to another directory or folder?
 * Can you list the contents of the directory or folder?
-* Can you get a basic list and an advanced list (that shows permissions, file size, path, etc)?
-
-* What is the basic command for listing items in a folder or directory?
+  * Can you get a basic list and an advanced list (that shows permissions, file size, path, etc)?
 * Use the command line to generate a list of files in a directory that is output to a file. List the command that you would use on your system below (and specify what system you’re using).
 * In what sorts of situations do you think that the command line interface would be useful or advantageous over the GUI? Give at least one example.
 * Do you feel more comfortable using the command line? Why or why not?
