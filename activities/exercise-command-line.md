@@ -98,7 +98,7 @@ Can you answer these questions?
 * What command would you use to move to another directory or folder?
 * Can you list the contents of the directory or folder?
   * Can you get a basic list and an advanced list (that shows permissions, file size, path, etc)?
-* What are the `.` and `..` directories? 
+* What are the `.` and `..` directories?
 * Use the command line to generate a list of files in a directory that is output to a file. List the command that you would use on your system in your answer (and specify what system you’re using).
 * Above and in class we used the `find` command. Look at the find command `find . -type f -name '*.txt` (described above). What would you expect the output of this command to be? Use your knowledge from our discussion, or test this in the shell to see what happens.
 * In what sorts of situations do you think that the command line interface would be useful or advantageous over the GUI? Give at least one example.
@@ -111,3 +111,4 @@ See these additional resources for more detailed information:
 * B. Lyons, [Introduction to Using the Command Line Interface](https://www.weareavp.com/an-introduction-to-using-the-command-line-interface-to-work-with-files-and-directories/) (2014); versions for both MAC and Windows OS.
 * C. Severance, _Python for Everybody_: tips for [Mac](https://www.py4e.com/software-mac.php), tips for [Windows](https://www.py4e.com/software-win.php).
 * [Copy, Create, Rename and Remove Unix Directories](http://documentation.its.umich.edu/node/295)
+* Wikipedia, [Find (Unix)](https://en.wikipedia.org/wiki/Find_(Unix))
