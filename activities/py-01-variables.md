@@ -38,7 +38,7 @@ the response may be output through the `print()` function.
 
 Mathematical expressions may evaluate according to usual math functions, such as basic operations like addition, subtraction, multiplication, and division.
 
-Other "comparison operators" allow you to evaluate two things to return a single value known as a Boolean value, which python will evaluate as either `True` or `False`. Here are the comparison operators
+Other "comparison operators" allow you to evaluate two things to return a single value known as a Boolean value, which python will evaluate as either `True` or `False`. Here are the comparison operators:
 
 | Operator | Meaning |
 | ----- | ----- |
