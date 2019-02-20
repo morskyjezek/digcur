@@ -35,13 +35,13 @@ documentation for the command, which you have provided as an argument. For examp
 Another useful, and user-friendly, resource for searching for commands is [Explain Shell](https://explainshell.com/). A resource geared specifically toward archivists and librarians is the [_Script Ahoy_](https://dd388.github.io/crals/) resource.
 
 ### Navigation
-* determining where you are (Mac: `pwd` / Windows: `cd`)
+* determining where you are (Unix: `pwd` / DOS: `cd`)
 * moving within the directory structure (`cd`)
 * moving files (`mv`)
 
 ### Managing Files
 * creating directories (`mkdir`)
-* viewing/opening files (Mac: open / Windows: <type the file>; OR viewers like less(Mac)/more(Win); OR editors: vi, nano, ted and notepad)
+* viewing/opening files (Unix: open / DOS: <type the file>; OR viewers like less(Unix)/more(Win); OR editors: vi, nano, ted and notepad)
 * copying/moving files (Mac: `cp` / `mv` / Windows: copy con/move)
 
 ### Create File Lists
@@ -56,7 +56,29 @@ Another useful, and user-friendly, resource for searching for commands is [Expla
 * outputting lists (print to file: `>`)
 
 ### Finding files
-* the `find` command is a useful way to find files
+The `find` command is a useful way to find files. The syntax is somewhat more complicated than
+other commands, but it can be a powerful way to get an overview of items in a particular drive or directory.
+One of the things tha makes `find` useful is that you can give it very detailed instructions about where to
+look and what to look for. The syntax for `find` is as follows:
+
+* `find` + `{location you want to search}` + `{options that you want to search for, designated by hyphen flags, like -type or -name of object, followed by the arguments for each`
+
+For example:
+
+* `find . -type f -name '*.txt'`
+
+In the above:
+* `find` initiates the find program,
+* `.` indicates to search the current directory (you could specify
+a different path here); note that in this case, the command is _recursive_, which means that
+it will search any directories contained in the current path (`.`), but that is another thing you can
+control if you investigate the options for this program further,
+* `-type f` defines what type of object to look for, in this case `f` designates files
+(you can also use `d` for directories or find other options here using the `man` page)
+* `-name '*.txt'` limits the results to anything that has a string ending with the text `.txt`
+in the name of the object.
+
+In the reflection activity, you are asked to describe what the output of this command would be.
 
 ### Other commands of interest
 * `df` gives information about the file system usage
@@ -71,14 +93,14 @@ Another useful, and user-friendly, resource for searching for commands is [Expla
 * Don't be afraid of the command line, do be cautious: there are not always built-in safeguards as in the GUI environment. If you delete something from the command line, for example, it will not be moved to the trash before deletion - it will be removed immediately. This is not a cause for alarm, but it is a reminder to make sure you are doing exactly what you want, know how to do it (or ask someone who does), and don't proceed too quickly.
 
 ## Reflection Activity
-Can you answer these questions? Open a window that gives you access to the command line:
-* What is the name of the directory or folder that you are in? What command would you use to answer this question?
-* How would you move to another directory or folder?
+Can you answer these questions?
+* Imagine that you have opened a window that gives access to the command line. What is the path of the directory or folder that you are in? What command would you use to answer this question?
+* What command would you use to move to another directory or folder?
 * Can you list the contents of the directory or folder?
-* Can you get a basic list and an advanced list (that shows permissions, file size, path, etc)?
-
-* What is the basic command for listing items in a folder or directory?
-* Use the command line to generate a list of files in a directory that is output to a file. List the command that you would use on your system below (and specify what system you’re using).
+  * Can you get a basic list and an advanced list (that shows permissions, file size, path, etc)?
+* What are the `.` and `..` directories?
+* Use the command line to generate a list of files in a directory that is output to a file. List the command that you would use on your system in your answer (and specify what system you’re using).
+* Above and in class we used the `find` command. Look at the find command `find . -type f -name '*.txt` (described above). What would you expect the output of this command to be? Use your knowledge from our discussion, or test this in the shell to see what happens.
 * In what sorts of situations do you think that the command line interface would be useful or advantageous over the GUI? Give at least one example.
 * Do you feel more comfortable using the command line? Why or why not?
 
@@ -89,3 +111,4 @@ See these additional resources for more detailed information:
 * B. Lyons, [Introduction to Using the Command Line Interface](https://www.weareavp.com/an-introduction-to-using-the-command-line-interface-to-work-with-files-and-directories/) (2014); versions for both MAC and Windows OS.
 * C. Severance, _Python for Everybody_: tips for [Mac](https://www.py4e.com/software-mac.php), tips for [Windows](https://www.py4e.com/software-win.php).
 * [Copy, Create, Rename and Remove Unix Directories](http://documentation.its.umich.edu/node/295)
+* Wikipedia, [Find (Unix)](https://en.wikipedia.org/wiki/Find_(Unix))
