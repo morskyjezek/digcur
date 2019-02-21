@@ -100,7 +100,7 @@ Can you answer these questions?
   * Can you get a basic list and an advanced list (that shows permissions, file size, path, etc)?
 * What are the `.` and `..` directories?
 * Use the command line to generate a list of files in a directory that is output to a file. List the command that you would use on your system in your answer (and specify what system you’re using).
-* Above and in class we used the `find` command. Look at the find command `find . -type f -name '*.txt` (described above). What would you expect the output of this command to be? Use your knowledge from our discussion, or test this in the shell to see what happens.
+* Above and in class we used the `find` command. Look at the find command `find . -type f -name '*.txt'` (described above). What would you expect the output of this command to be? Use your knowledge from our discussion, or test this in the shell to see what happens.
 * In what sorts of situations do you think that the command line interface would be useful or advantageous over the GUI? Give at least one example.
 * Do you feel more comfortable using the command line? Why or why not?
 
