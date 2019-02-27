@@ -1,0 +1,752 @@
+<SAMI>
+<HEAD>
+<STYLE TYPE="text/css">
+	<!--
+	P {
+	font-size: .85em;
+	font-family: Arial;
+	font-weight: normal;
+	color: #FFFFFF;
+	background: #000000;
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	}
+	.ENUSCC { Name: English; lang: EN-US-CC; }
+	-->
+</STYLE>
+</HEAD>
+<BODY>
+<sync start="1000"/><p class="enuscc">Good afternoon or good morning to those of you to the West.</p></sync>
+<sync start="10000"/><p class="enuscc">Welcome to the Talking Freight Seminar Series. </p></sync>
+<sync start="21000"/><p class="enuscc">My name is it Jennifer Symoun and I will be moderating today's seminar. </p></sync>
+<sync start="23000"/><p class="enuscc">Today's topic is Urban Congestion and Freight. </p></sync>
+<sync start="25000"/><p class="enuscc">Please be advised that today's seminar is being recorded.  </p></sync>
+<sync start="29000"/><p class="enuscc">Today we'll have three presenters:</p></sync>
+<sync start="32000"/><p class="enuscc">Paul Belella of Delcan, Jeannie Becket of the Port of Tacoma, and Mike Meyer of Georgia Tech.</p></sync>
+<sync start="40000"/><p class="enuscc">Paul Belella has 22 years of professional experience in project management, technical research, business process reengineering, special studies, and technical and operational testing and evaluation.</p></sync>
+<sync start="50000"/><p class="enuscc">His experience spans the areas of intermodal and transportation to include international borders and trade Transportation. </p></sync>
+<sync start="62000"/><p class="enuscc">Specific expertise equals at Ministry of Technology Systems, freight security pathology and Web-based transaction Media. </p></sync>
+<sync start="71000"/><p class="enuscc">He has significant experience in the experimental design, evaluation, system requirement and institutional coronation. </p></sync>
+<sync start="80000"/><p class="enuscc">He is currently the principal of Delcan where he leads the intermodal facility and freight--and leading the development of a concept of operations for the crosstown improvement project on can project that includes federal </p></sync>
+<sync start="99000"/><p class="enuscc">and state government agencies, class 11 Robert. </p></sync>
+<sync start="118000"/><p class="enuscc">Yielded --Jeannie Beckett is the senior director of land transportation from the Port of Tacoma from shipside to be entered United States and that. </p></sync>
+<sync start="127000"/><p class="enuscc">She has been at the Port of Tacoma and 1986. </p></sync>
+<sync start="131000"/><p class="enuscc">She is responsible for the oversight of the four intermodal yards at the Port of Tacoma as well as developing strategies for the local, </p></sync>
+<sync start="154000"/><p class="enuscc">regional Transportation she is a leader in the past --for the last eight years ago she currently chairs and busters for she is active in the American Association of Port authorities. </p></sync>
+<sync start="177000"/><p class="enuscc">Dr.Jeannie Beckett is the former chair of the Civil and Environmental Engineering at the Georgia Institute of Technology. </p></sync>
+<sync start="187000"/><p class="enuscc">From 1983 to 1988 he was the--where he was responsible for statewide planning, Transportation Research. </p></sync>
+<sync start="195000"/><p class="enuscc">Prior to this, he was professor in the Department of civil engineering at MIT. </p></sync>
+<sync start="202000"/><p class="enuscc">He has written over 160 technical articles and has authored or co-authored numerous texts including a college textbook entitled urban transportation planning, as such has entered professional committees related to transportation safety, </p></sync>
+<sync start="226000"/><p class="enuscc">public transportation, environmental impact analysis, transportation policy, transportation education and intermodal transportation. </p></sync>
+<sync start="250000"/><p class="enuscc">He has a BS degree in civil engineering from the University of Wisconsin, a Ph.D. degree in civil engineering from MIT. </p></sync>
+<sync start="256000"/><p class="enuscc">He is a registered professional engineer in the state of Georgia. </p></sync>
+<sync start="260000"/><p class="enuscc">I would like to go over a few logistical details prior to starting the seminar. </p></sync>
+<sync start="266000"/><p class="enuscc">It will last 90 minutes with 60 Mets allocated for the speakers and the final 30 minutes for question and answer. </p></sync>
+<sync start="273000"/><p class="enuscc">If you think of a question during the presentation, please type it into the smaller tech stocks on the right hand side of the screen. </p></sync>
+<sync start="282000"/><p class="enuscc">Please also make sure you send your question to everyone and include which presenter your question is for. </p></sync>
+<sync start="288000"/><p class="enuscc">Presenters will not be able to answer questions during the presentation, but I will start off the question and answer session with the questions typed into the top box. </p></sync>
+<sync start="297000"/><p class="enuscc">The operator will give instructions on how to ask the questions over the phone. </p></sync>
+<sync start="303000"/><p class="enuscc">If you think of a question after the seminar, you can send it to the presenters directly or use the Freight Planning LISTSERV. </p></sync>
+<sync start="310000"/><p class="enuscc">It is a great forum for the distribution of information as well as a place where you can post questions and find out what other subscribers have learned. </p></sync>
+<sync start="319000"/><p class="enuscc">If you have not already tried the LISTSERV, the address that you can do so is provided on the screen. </p></sync>
+<sync start="326000"/><p class="enuscc">I provide to remind you that this is being recorded. </p></sync>
+<sync start="329000"/><p class="enuscc">The audio and visual portion of this seminar will be posted to the Talking Freight Web site within the next week. </p></sync>
+<sync start="334000"/><p class="enuscc">We encourage you to direct others in your office who may not have been able to attend the seminar to access the recording. </p></sync>
+<sync start="341000"/><p class="enuscc">The Powerpoint presentations are available for download on the screen. </p></sync>
+<sync start="346000"/><p class="enuscc">There is a file share box and the lower corner and there are instructions on how to download the presentation. </p></sync>
+<sync start="354000"/><p class="enuscc">They will also be available on the Talking Freight website. </p></sync>
+<sync start="355000"/><p class="enuscc">We will now go ahead and get started. </p></sync>
+<sync start="359000"/><p class="enuscc">For those of you just joined us the topic is Urban Congestion and Freight. </p></sync>
+<sync start="363000"/><p class="enuscc">Our first presentation will be given by Paul Belella of Delcan. </p></sync>
+<sync start="366000"/><p class="enuscc">If you have questions during the presentation, please type them into the chat box and they will be answered in the last 30 minutes of the seminar. </p></sync>
+<sync start="375000"/><p class="enuscc">I will bring up your presentation, Paul and you can go ahead. </p></sync>
+<sync start="380000"/><p class="enuscc">Thank you, Jennifer and thank you to everyone on line. </p></sync>
+<sync start="384000"/><p class="enuscc">I hope this is an informative session for you. </p></sync>
+<sync start="387000"/><p class="enuscc">I did want to encourage questions. </p></sync>
+<sync start="392000"/><p class="enuscc">My presentation, as you can see on the screen is intended to change the tone of the discussion and to try to accentuate space and, what I think art on export opportunities to actually partner between the public and private sector </p></sync>
+<sync start="402000"/><p class="enuscc">and take it to a new level. </p></sync>
+<sync start="413000"/><p class="enuscc">Hopefully, it is a provocative discussion and oysters some thought in your mind's and raises questions and moves the discussion in new and exciting directions. </p></sync>
+<sync start="425000"/><p class="enuscc">I want to talk to you on them to different topics Today. </p></sync>
+<sync start="428000"/><p class="enuscc">One is the idea of changing the nature of the discussion and how we are trying to do that in a couple different initiatives that we have undertaken. </p></sync>
+<sync start="439000"/><p class="enuscc">Hopefully, we will get a chance to expand that philosophy beyond the current stakeholders and current partners that we are dealing with now. </p></sync>
+<sync start="449000"/><p class="enuscc">But I will talk about today, obviously, the topic of the session is Urban Congestion and Freight. </p></sync>
+<sync start="454000"/><p class="enuscc">I want to talk about what we are up against, some of which the folks on the call probably already know, maybe in intimate detail. </p></sync>
+<sync start="463000"/><p class="enuscc">We will talk how we have chosen to deal with it and why it is not enough. </p></sync>
+<sync start="469000"/><p class="enuscc">I will share with you some positive alternatives and specific examples to show that and give some ideas as to where we can go from here to continue to move forward in this direction. </p></sync>
+<sync start="479000"/><p class="enuscc">What we are up against. </p></sync>
+<sync start="483000"/><p class="enuscc">When you are seeing up on the screen now, we have all heard the statistics. </p></sync>
+<sync start="488000"/><p class="enuscc">Maybe we have only heard pieces and parts of these. </p></sync>
+<sync start="492000"/><p class="enuscc">There are a couple that I want to point out that I think quite to the root of the problem and give some sense of how significant it is. </p></sync>
+<sync start="502000"/><p class="enuscc">If you look halfway down the list there, the one that stands out first, the actual travel times exceed ideal travel times by 20 to 60%. </p></sync>
+<sync start="511000"/><p class="enuscc">It is astonishing when you think about it. </p></sync>
+<sync start="517000"/><p class="enuscc">This is data derived-if you have a trip that should take you and hour, you have to plan between an hour and 15 minutes to an hour and a half more to get there, </p></sync>
+<sync start="531000"/><p class="enuscc">just because of the uncertainty associated with the trip perk a when you factor in that you driving a truck through a urban area, it might be worse than that because of the operational nature of the truck. </p></sync>
+<sync start="545000"/><p class="enuscc">The one directly below that is expenditures for new capacity are running at about 94 percent of what is needed. </p></sync>
+<sync start="554000"/><p class="enuscc">Obviously, as much as we would all like to make things happen and smooth the flow of freight, it is not likely to happen in our professional lifetime. </p></sync>
+<sync start="566000"/><p class="enuscc">As a result, if you factor in the expected growth, both in international and domestic freight, the numbers are dramatic. </p></sync>
+<sync start="575000"/><p class="enuscc">It paints a scary picture when you look at these things in a combined form. </p></sync>
+<sync start="584000"/><p class="enuscc">Closing that out, if you look at the latest statistics, and this is not the latest, it is January of 2006, bottlenecks are causing truckers $8 billion each year. </p></sync>
+<sync start="597000"/><p class="enuscc">That is a staggering amount of money and does not factor in the other players who are affected adversely by the delays they are incurring. </p></sync>
+<sync start="609000"/><p class="enuscc">The reality of it is that you think of all of these things together. </p></sync>
+<sync start="613000"/><p class="enuscc">What some of us tend to overlook is that we are not just talking about inconvenience and may be paying a little more for goods. </p></sync>
+<sync start="624000"/><p class="enuscc">This congestion is really a direct threat to both of our global competitiveness and domestic economic vitality. </p></sync>
+<sync start="632000"/><p class="enuscc">If we think about all of the ancillary effects of trucks sitting in traffic, for instance, or freight sitting still at any point, the cost associated with that are dramatic </p></sync>
+<sync start="640000"/><p class="enuscc">and multiplied when you propagate those costs out throughout the and supply chain. </p></sync>
+<sync start="649000"/><p class="enuscc">How have we chosen to deal with it? </p></sync>
+<sync start="652000"/><p class="enuscc">If you believe and agree that this is a major issue and concern for the future and our economic vitality is tied to it, I think we need to take a look at how we have dealt with it </p></sync>
+<sync start="663000"/><p class="enuscc">and really start to get creative about how we will deal with it in the future, recognizing that we have that 4% investment rate and terms of adding capacity. </p></sync>
+<sync start="675000"/><p class="enuscc">This is a very compressed list of some of the things we have done. </p></sync>
+<sync start="679000"/><p class="enuscc">Some of them have had significant affects. </p></sync>
+<sync start="684000"/><p class="enuscc">Anyone on its own is not going to make a great deal of difference. </p></sync>
+<sync start="690000"/><p class="enuscc">We have seen some things take place. </p></sync>
+<sync start="694000"/><p class="enuscc">I have been dealing in the ITS area for quite a few years. </p></sync>
+<sync start="698000"/><p class="enuscc">It has been interesting to see some of the things that have happened, particularly in the commercial vehicle Domain. </p></sync>
+<sync start="706000"/><p class="enuscc">Quite honestly, my argument would be that they have made more progress than a lot of other areas. </p></sync>
+<sync start="710000"/><p class="enuscc">I will leave it at that. </p></sync>
+<sync start="714000"/><p class="enuscc">There has been a great deal of technology implemented, especially with a way station, prescreening and location tracking. </p></sync>
+<sync start="723000"/><p class="enuscc">Those kinds of technology employed in the commercial vehicle arena really have made some dramatic differences in overall freight efficiency. </p></sync>
+<sync start="731000"/><p class="enuscc">There is still some more to do, obviously. </p></sync>
+<sync start="733000"/><p class="enuscc">That is the point of this presentation. </p></sync>
+<sync start="736000"/><p class="enuscc">Some progress has been made. </p></sync>
+<sync start="743000"/><p class="enuscc">If there is a lot of press about HOT lanes, those sorts of things. </p></sync>
+<sync start="747000"/><p class="enuscc">It may have their place. </p></sync>
+<sync start="751000"/><p class="enuscc">If you look across the board with a relatively small exception of what I mentioned with the CVO, freight is often looked at as an adversary. </p></sync>
+<sync start="764000"/><p class="enuscc">It is looked at as a contestant generator and something that adversely affects roadway congestion and quality of travel and overall travel time. </p></sync>
+<sync start="773000"/><p class="enuscc">The reality is that it is more than offset by the fact that it is a key component of an economic engine that provides a lot of jobs and income, a lot of wealth and quality of life for a lot of people for across the country. </p></sync>
+<sync start="791000"/><p class="enuscc">The basic test of this presentation is that we need to spend, I think we need to spend a little more time thinking about how we can partner with the industry as government agencies to gather to work towards ensuring our economic future. </p></sync>
+<sync start="811000"/><p class="enuscc">Why is it not enough what we have done so far? </p></sync>
+<sync start="814000"/><p class="enuscc">In reality, we have to deal with trucks that will always be needed to complete the overwhelming majority of first and last mile good movement. </p></sync>
+<sync start="822000"/><p class="enuscc">Jeannie will share with you interesting and amusing things that they have done in her part of the country with dock side rail. </p></sync>
+<sync start="832000"/><p class="enuscc">It is more the exception than the role. </p></sync>
+<sync start="833000"/><p class="enuscc">They did some great things their. </p></sync>
+<sync start="836000"/><p class="enuscc">In the end, you will always need trucks to make the first and last mile of goods movement. </p></sync>
+<sync start="845000"/><p class="enuscc">They provide essential flexibility and speed. </p></sync>
+<sync start="849000"/><p class="enuscc">Unfortunately, depending on the type of the operation, as much as 50 percent of truck trips are made and the. </p></sync>
+<sync start="856000"/><p class="enuscc">I will share a little bit more about what I mean by truck trips a little later in the presentation. </p></sync>
+<sync start="864000"/><p class="enuscc">There is still a dramatic percentage, an unacceptably high percentage of truck trips that are made without anything in the back. </p></sync>
+<sync start="872000"/><p class="enuscc">Setting the stage for moving forward and talking about what we are trying to promote here, I thought it would be useful to touch on the key day for axioms. </p></sync>
+<sync start="886000"/><p class="enuscc">The first one, a full truck that is moving, that is, is an action and it equals economic vitality. </p></sync>
+<sync start="892000"/><p class="enuscc">That is something that someone needs move from no one place to another. </p></sync>
+<sync start="897000"/><p class="enuscc">Is moving along at a reasonable speed. </p></sync>
+<sync start="901000"/><p class="enuscc">The resources that are being consumed to move it on par with what they should be for getting goods to market. </p></sync>
+<sync start="908000"/><p class="enuscc">The second one, it will trap that is stationary is pure cost. </p></sync>
+<sync start="912000"/><p class="enuscc">Nothing is happening and the freight is not moving. </p></sync>
+<sync start="916000"/><p class="enuscc">A stationary track that is pure cost equals economic harm. </p></sync>
+<sync start="921000"/><p class="enuscc">Quite a few people are losing out in that proposition. </p></sync>
+<sync start="925000"/><p class="enuscc">An empty truck that is moving is not that much better. </p></sync>
+<sync start="928000"/><p class="enuscc">It is great that he is moving, but they are not moving anything. </p></sync>
+<sync start="933000"/><p class="enuscc">It is pure cost and creating congestion costs for everyone, everyone who uses the system. </p></sync>
+<sync start="937000"/><p class="enuscc">Some other things that I will throw out there that you might or might not agree with, pay-as-you-go facilities, toll-lindas and General. </p></sync>
+<sync start="951000"/><p class="enuscc">You are adding a direct cost that in most cases, based on the feedback that I have gotten, that exceeds, far exceeds the benefits they would accrue from having that facility being put in the Place. </p></sync>
+<sync start="965000"/><p class="enuscc">Whether you agree with that mathematically or not, the general perception from folks that I have talked to is the benefits do not equate the new cost that they are going to end her. </p></sync>
+<sync start="978000"/><p class="enuscc">In the end, if we look at reliable performance and strive for reliable performance and reduce the cost of operation, there will be white reaching benefits for a lot of folks. </p></sync>
+<sync start="991000"/><p class="enuscc">I will be more specific when I talk about that. </p></sync>
+<sync start="993000"/><p class="enuscc">So, when we take all of these things into consideration, what are we talking about here? </p></sync>
+<sync start="1000000"/><p class="enuscc">I am trying to turn the discussion a little bit, particularly for those who are in the public sector or work with the public sector, we really need to encourage efficiency and do it in new </p></sync>
+<sync start="1009000"/><p class="enuscc">and different ways rather than focusing on things that penalize inefficiency. </p></sync>
+<sync start="1018000"/><p class="enuscc">I do believe there is a fundamental difference in those approaches. </p></sync>
+<sync start="1022000"/><p class="enuscc">I will talk more about what I mean by that. </p></sync>
+<sync start="1029000"/><p class="enuscc">It has to do with turning that-and I hesitate to call it adversarial, although I did on the previous slide, but turning the discussion from one where there are forces pulling in different directions to pulling it together. </p></sync>
+<sync start="1042000"/><p class="enuscc">The benefits are substantial. </p></sync>
+<sync start="1045000"/><p class="enuscc">What are the alternatives to that? </p></sync>
+<sync start="1047000"/><p class="enuscc">I talked about working in partnership. </p></sync>
+<sync start="1052000"/><p class="enuscc">I will give you an example of what I mean by how-who all the players are and how they can benefit from working in partnership and where it would take as. </p></sync>
+<sync start="1063000"/><p class="enuscc">If we are all in agreement that reducing the number of trips that it takes to move goods on the network, whether it is on a truck or on rail or any other mode where goods are moved, it makes a lot of sense, </p></sync>
+<sync start="1075000"/><p class="enuscc">and if we are focusing on highways here, if you continue to move the goods but to it with fewer trips, that makes sense. </p></sync>
+<sync start="1088000"/><p class="enuscc">No one can argue with that basic principle. </p></sync>
+<sync start="1091000"/><p class="enuscc">I am trying to take the discussion to the next level, not only should we agree that it is a good thing but contribute to make it happen. </p></sync>
+<sync start="1102000"/><p class="enuscc">Where ever obvious benefits for freight carriers, if they are reducing trips and moving the same amount of goods, their efficiency is good and it will be more profitable </p></sync>
+<sync start="1107000"/><p class="enuscc">and provide better labor conditions for the people that work for them. </p></sync>
+<sync start="1112000"/><p class="enuscc">That is a no-brainer. </p></sync>
+<sync start="1116000"/><p class="enuscc">Everyone can understand and draw the connection. </p></sync>
+<sync start="1119000"/><p class="enuscc">If you extend it a little bit to the supply chain, if you are improving your efficiency, then you should be able to reduce transportation costs which improve overall supply chain [ indiscernible ]. </p></sync>
+<sync start="1136000"/><p class="enuscc">Again, it does not take too much of a stretch to understand that. </p></sync>
+<sync start="1138000"/><p class="enuscc">The public benefits. </p></sync>
+<sync start="1142000"/><p class="enuscc">If we are talking about taking tracts off of the road while still providing for the same movement of freight, </p></sync>
+<sync start="1149000"/><p class="enuscc">at the conclusion that you can draw from there is that there should be less traffic volume which should lead to reduced contestant, </p></sync>
+<sync start="1160000"/><p class="enuscc">which should not only improve overall quality of life conditions for the people that have to use those roadways but should improve safety and environment by reducing the number of trucks that are operating </p></sync>
+<sync start="1164000"/><p class="enuscc">and the number of fuel that is being burned on the truck. </p></sync>
+<sync start="1171000"/><p class="enuscc">Not a great stretch to understand those. </p></sync>
+<sync start="1173000"/><p class="enuscc">The one that we have ignored for too long and we need to spend a little more time thinking about is what all of these things mean in terms of local, regional and competitive issues. </p></sync>
+<sync start="1188000"/><p class="enuscc">If at all of the stakeholders are benefiting from them, you have an improved business environment and a reason that is more attractive to businesses that want to locate there because they can move their goods in and out </p></sync>
+<sync start="1197000"/><p class="enuscc">and move raw materials in and out, or whatever their situation is much more efficiently. </p></sync>
+<sync start="1207000"/><p class="enuscc">That makes it much more attractive for businesses to locate their which increases the tax base and it creates more employment and better pay, better living conditions. </p></sync>
+<sync start="1219000"/><p class="enuscc">It overall enhances the quality of life for that region. </p></sync>
+<sync start="1223000"/><p class="enuscc">This is basically a backdrop and a justification for building taking an aggressive approach and partnering with business and government. </p></sync>
+<sync start="1232000"/><p class="enuscc">One way that we started to do that, this is a group that has been around for a long time is the intermodal freight Working Group. </p></sync>
+<sync start="1243000"/><p class="enuscc">I want to talk about some of the concept that we are promoting. </p></sync>
+<sync start="1248000"/><p class="enuscc">It is a public/private partnership that has been around since 1998, quite some time. </p></sync>
+<sync start="1255000"/><p class="enuscc">All of the molds are involved here. </p></sync>
+<sync start="1262000"/><p class="enuscc">They all have been meeting on a regular basis since 1998, actually started with in 1999, we have been meeting with these folks and trying to understand what different needs are </p></sync>
+<sync start="1271000"/><p class="enuscc">and try to come up with what we think are mutually beneficial solutions to common challenges. </p></sync>
+<sync start="1281000"/><p class="enuscc">We really promote inclusive collaboration. </p></sync>
+<sync start="1284000"/><p class="enuscc">Anyone who wants to collaborate can. </p></sync>
+<sync start="1288000"/><p class="enuscc">We encourage the people to participate to take on roles in making things happen within the group, creating new projects, meeting those new projects with the idea being that not only are we trying to create and apply new merging </p></sync>
+<sync start="1302000"/><p class="enuscc">and existing technology solutions to those challenges but to also spur and catalyze adoption of this technologies and Standards and Best practices that can be applied to make those happen. </p></sync>
+<sync start="1316000"/><p class="enuscc">If you think about what we are trying to promote in terms of that partnership and the fact that we have a vehicle in place to make that happen, you might be thinking to yourself, what have you done? </p></sync>
+<sync start="1328000"/><p class="enuscc">Give me an example of something that tells me how you will go about doing this. </p></sync>
+<sync start="1335000"/><p class="enuscc">We have been working on that lately and the one person involved in this project is on the line and I am glad to see that. </p></sync>
+<sync start="1344000"/><p class="enuscc">May be there are a few that I have not seen. </p></sync>
+<sync start="1348000"/><p class="enuscc">It is a project called feet across town Improvement Project. </p></sync>
+<sync start="1355000"/><p class="enuscc">What it is about is trip reduction, truck trip reduction and applying technology and business practices in a location where a lot of freight interchange happens. </p></sync>
+<sync start="1365000"/><p class="enuscc">In this case the initial premise has to do with a place where you have a number of different freight terminals around the metropolitan area and have the truck containers between these back and forth. </p></sync>
+<sync start="1381000"/><p class="enuscc">The truck trip reduction solution uses a collaborative approach to provide business and public benefits by putting in place a Web services based application to coordinate with cross towns. </p></sync>
+<sync start="1395000"/><p class="enuscc">Those of you involved understand what cross-towns our. </p></sync>
+<sync start="1400000"/><p class="enuscc">They are Robert Tyre interchanges and moving goods and containers from one railhead to another. </p></sync>
+<sync start="1406000"/><p class="enuscc">They often happened in places like Chicago, Kansas City, up and down the Mississippi Valley and a number of other places. </p></sync>
+<sync start="1415000"/><p class="enuscc">I will get into how this concept applies in different locations. </p></sync>
+<sync start="1418000"/><p class="enuscc">That is basically what this is about. </p></sync>
+<sync start="1423000"/><p class="enuscc">The idea here is to provide coordination for those movements and to add into that application like advanced traveler information, monitoring of network conditions using live freight data </p></sync>
+<sync start="1431000"/><p class="enuscc">and improving access to information regarding shipments of concern, particularly hazardous goods. </p></sync>
+<sync start="1440000"/><p class="enuscc">The basic preceptor is that this is an application that can be applied anywhere where multiple repetitive intermodal trips ocher. </p></sync>
+<sync start="1450000"/><p class="enuscc">It is good for use in and out of major state for centers, whether it is--3 trucking companies, a terminal operator and five different public agencies all working together to make this happen. </p></sync>
+<sync start="1465000"/><p class="enuscc">It is an on, president partnership for a lot of people have committed themselves to making this happen </p></sync>
+<sync start="1472000"/><p class="enuscc">and I have to give a lot of credit to the Metropolitan Council in Kansas City who has been the major anchor in helping pull this all together. </p></sync>
+<sync start="1479000"/><p class="enuscc">What does that mean and how does this look? </p></sync>
+<sync start="1482000"/><p class="enuscc">This looks like a highly technical and diagram. </p></sync>
+<sync start="1485000"/><p class="enuscc">We will not step through this. </p></sync>
+<sync start="1489000"/><p class="enuscc">When I want you to focus on here is the fact that we have public agencies, private businesses and various systems that all serve to connect and provide information exchange among all these different players. </p></sync>
+<sync start="1502000"/><p class="enuscc">I will point out a couple of them to you. </p></sync>
+<sync start="1507000"/><p class="enuscc">Up in the topline you have commercial trucking companies, terminal operators and railroads all connecting through existing systems or web interface. </p></sync>
+<sync start="1518000"/><p class="enuscc">You have on the left-hand side a Regional Traffic Management center. </p></sync>
+<sync start="1522000"/><p class="enuscc">You have other agencies like the regional council, federal and state agencies. </p></sync>
+<sync start="1530000"/><p class="enuscc">You also have different private data sources, different private companies all involve. </p></sync>
+<sync start="1538000"/><p class="enuscc">To have a different-we will call them access points for people that are interested in getting information, where they can get that information, whether it is read it, television, personal communication devices or the web, for instance. </p></sync>
+<sync start="1554000"/><p class="enuscc">With this project is about is creating new connectivity routes for information to be exchanged and shared that can produce the amount of empty trips it takes to move goods through a major urban Center. </p></sync>
+<sync start="1569000"/><p class="enuscc">In this case, specifically, and I will describe as quickly. </p></sync>
+<sync start="1573000"/><p class="enuscc">The idea is for all of the railroads to provide their information about load requirements and move requirements and have that information broker, probably by a third-party managing the it side </p></sync>
+<sync start="1580000"/><p class="enuscc">and all of the truckers offering what they have in terms of capacity. </p></sync>
+<sync start="1588000"/><p class="enuscc">Through a system of business rules that are agreed upon by all of the parties, loads are assigned so that it trucking company A is moving goods, they should be able to make a two-way trade with other goods. </p></sync>
+<sync start="1607000"/><p class="enuscc">This illustrates it for you to a graph. </p></sync>
+<sync start="1609000"/><p class="enuscc">You see a map of the Greater Kansas City area. </p></sync>
+<sync start="1613000"/><p class="enuscc">I will show you how this is supposed to work through a scenario. </p></sync>
+<sync start="1618000"/><p class="enuscc">There are two loads that need to be transferred, one in each direction. </p></sync>
+<sync start="1622000"/><p class="enuscc">Those are by the red star. </p></sync>
+<sync start="1626000"/><p class="enuscc">It will encompass two railheads in the Kansas City area. </p></sync>
+<sync start="1632000"/><p class="enuscc">There are none too carriers of truck to pull each load. </p></sync>
+<sync start="1635000"/><p class="enuscc">Which one should pull which load from what point to what point what the idea here is to this collaborative approach in connection with this Cross center improvement, we will call it the C-TIP Web server, it assigns zero to one carrier. </p></sync>
+<sync start="1659000"/><p class="enuscc">You have information from KCScout. </p></sync>
+<sync start="1662000"/><p class="enuscc">There is an incident on this segment of roadway and some construction here on this roadway. </p></sync>
+<sync start="1670000"/><p class="enuscc">All of that information is combined and provides information to of the C-TIP server about road conditions and travel time. </p></sync>
+<sync start="1679000"/><p class="enuscc">Based on all the information available, C-TIP assigns the load to the first carrier and dispatches the truck to the terminal and continues from that first terminal, I am trying to find my green arrow here. </p></sync>
+<sync start="1692000"/><p class="enuscc">It takes a look to the second terminal, picks up a load and brings it back to the first, all within the parameters of the load move requirements. </p></sync>
+<sync start="1701000"/><p class="enuscc">You were able to avoid trucking company no one having to make a and a trip to the first terminal, a and a trip back to the first or an empty trip home and have the second record do the same thing. </p></sync>
+<sync start="1718000"/><p class="enuscc">You now have one at Tucker making one and the trip. </p></sync>
+<sync start="1721000"/><p class="enuscc">This is about trip reduction and this is what this is intended to show. </p></sync>
+<sync start="1729000"/><p class="enuscc">What I am showing in this slide now are some calculations that we did to try to determine what the potential was to reduce the number of empty traps. </p></sync>
+<sync start="1740000"/><p class="enuscc">This is strictly for the Kansas City area. </p></sync>
+<sync start="1744000"/><p class="enuscc">It is not nearly as complex or involve as Chicago. </p></sync>
+<sync start="1748000"/><p class="enuscc">It is a pretty good idea of how the operation works. </p></sync>
+<sync start="1765000"/><p class="enuscc">We apply it --applied some--we can reduce intermodal truck trips by 22%. </p></sync>
+<sync start="1769000"/><p class="enuscc">That is a pretty significant number. </p></sync>
+<sync start="1772000"/><p class="enuscc">That translates into a combination of cross-town trips and local delivery trips, which are from a terminal to a delivery point and back broke the potential there is to reduce the number of trips by more than 1500 per week </p></sync>
+<sync start="1781000"/><p class="enuscc">or approximately 82,000 annually. </p></sync>
+<sync start="1791000"/><p class="enuscc">Again, applying travel to land management. </p></sync>
+<sync start="1794000"/><p class="enuscc">We have determined that it provides benefits equivalent to removing about a quarter of a million personal vehicle trips annually from the roadway and around Kansas City </p></sync>
+<sync start="1806000"/><p class="enuscc">and that the annual truck vehicle miles traveled could be reduced by more than a million based on an average traveling of 12 and a half miles, which is what we determined was average for the Kansas City area. </p></sync>
+<sync start="1819000"/><p class="enuscc">Those are some pretty significant benefit. </p></sync>
+<sync start="1821000"/><p class="enuscc">Focusing on that alone, and you would think that this would be an interesting thing to undertake. </p></sync>
+<sync start="1828000"/><p class="enuscc">The thing to keep in mind is that Kansas City is not as busy as some of the other places, certainly not as busy as some of the port Cities. </p></sync>
+<sync start="1839000"/><p class="enuscc">What happens if you apply it to a larger location? </p></sync>
+<sync start="1843000"/><p class="enuscc">If you do it in Chicago, the C-TIP application has the potential to reduce annual truck trips by 1.35 million, which is equivalent to more than 4 million personal vehicle trips annually. </p></sync>
+<sync start="1854000"/><p class="enuscc">That is a huge number. </p></sync>
+<sync start="1858000"/><p class="enuscc">It is placed the potential that this application has. </p></sync>
+<sync start="1861000"/><p class="enuscc">I know that I am coming toward the end of my time. </p></sync>
+<sync start="1865000"/><p class="enuscc">I want to show you a couple things to keep in mind. </p></sync>
+<sync start="1869000"/><p class="enuscc">The idea behind C-TIP was that we wanted to really show that this was an application that can be applied in locations other than rail. </p></sync>
+<sync start="1879000"/><p class="enuscc">What we are showing here is like what you saw earlier. </p></sync>
+<sync start="1885000"/><p class="enuscc">The main difference is that we have applied the same principles to a sea port, in this case Baltimore and have changed a few of the names. </p></sync>
+<sync start="1893000"/><p class="enuscc">This is State Highway Administration now. </p></sync>
+<sync start="1897000"/><p class="enuscc">We have made this generic and called it the state DOT. </p></sync>
+<sync start="1901000"/><p class="enuscc">The architecture and conductivity is all identical if you are in a port location. </p></sync>
+<sync start="1906000"/><p class="enuscc">How would it work? </p></sync>
+<sync start="1909000"/><p class="enuscc">It is basically the same. </p></sync>
+<sync start="1915000"/><p class="enuscc">You have--1 dispatcher has one truck and one has another one. </p></sync>
+<sync start="1918000"/><p class="enuscc">You apply information from the traffic management system in the area. </p></sync>
+<sync start="1922000"/><p class="enuscc">Based on all of the information that you have from all of those sources and what C-TIP would do for you is identify which two trucks can make the, </p></sync>
+<sync start="1930000"/><p class="enuscc">off so that you do not waste the trip with a truck trying to get through a construction area to the port to make the, off to make the load. </p></sync>
+<sync start="1939000"/><p class="enuscc">You have two tracks that are able to take care of that, even though they are not necessarily the two closest. </p></sync>
+<sync start="1946000"/><p class="enuscc">You save an empty truck by a truck that will not make the, off. </p></sync>
+<sync start="1948000"/><p class="enuscc">Where do we go from here? </p></sync>
+<sync start="1951000"/><p class="enuscc">But we are trying to do next is the assumption that something from the Kansas City demonstration. </p></sync>
+<sync start="1957000"/><p class="enuscc">The idea is to deploy the system and conduct operational test and evaluation and try to analyze the output from that and see how it extends to other locations, particularly in Chicago. </p></sync>
+<sync start="1969000"/><p class="enuscc">That is our first priority right now. </p></sync>
+<sync start="1974000"/><p class="enuscc">We would like to explore applying that concept in a port city, like I should do in Baltimore, for instance. </p></sync>
+<sync start="1981000"/><p class="enuscc">It could be any port City. </p></sync>
+<sync start="1985000"/><p class="enuscc">Baltimore is local to us so we used that as a model. </p></sync>
+<sync start="1988000"/><p class="enuscc">Finally, like I talked about earlier, we want to change the tone of the discussion here and really focus on how government and business can partner together to help improve overall business efficiency. </p></sync>
+<sync start="2002000"/><p class="enuscc">We have seen that doing so has a potential to have a great effect. </p></sync>
+<sync start="2007000"/><p class="enuscc">Want to try to identify mutually beneficial options but whether it is through us or a local partnership. </p></sync>
+<sync start="2014000"/><p class="enuscc">We want to see how far this concept and this principle can be applied. </p></sync>
+<sync start="2021000"/><p class="enuscc">Most importantly, I think what we really want to do is get a mind-set, a new mindset towards freight. </p></sync>
+<sync start="2028000"/><p class="enuscc">We want to remind people that we really are talking about the fact that more and freight is a good thing. </p></sync>
+<sync start="2035000"/><p class="enuscc">It means there is an opportunity for more economic development and more wealth to be shared and more people to have jobs and all of that that comes along with it. </p></sync>
+<sync start="2046000"/><p class="enuscc">More efficient freight means improved quality of life for everyone. </p></sync>
+<sync start="2050000"/><p class="enuscc">It is not just a business decision but a community decision to improve the efficiency of freight. </p></sync>
+<sync start="2056000"/><p class="enuscc">When you have more collaboration, and you will have better solutions. </p></sync>
+<sync start="2059000"/><p class="enuscc">Because more people are involved, there is more knowledge at the table and hopefully more commitment at the table. </p></sync>
+<sync start="2067000"/><p class="enuscc">That pretty much wrapped up what I had to present today. </p></sync>
+<sync start="2069000"/><p class="enuscc">I hope that it was informative. </p></sync>
+<sync start="2072000"/><p class="enuscc">We will preserve questions for the end, is that right now, Jennifer? </p></sync>
+<sync start="2074000"/><p class="enuscc">That is right. </p></sync>
+<sync start="2075000"/><p class="enuscc">Okay. </p></sync>
+<sync start="2077000"/><p class="enuscc">We did have a few questions posted. </p></sync>
+<sync start="2080000"/><p class="enuscc">We will get to those at the end. </p></sync>
+<sync start="2086000"/><p class="enuscc">I do encourage you, if you encourage to think of questions for Paul or any of the other presenters, oppose them. </p></sync>
+<sync start="2092000"/><p class="enuscc">Our next presenter is Jeannie Beckett. </p></sync>
+<sync start="2093000"/><p class="enuscc">Go when you are ready. </p></sync>
+<sync start="2094000"/><p class="enuscc">Good morning. </p></sync>
+<sync start="2099000"/><p class="enuscc">What I would like to do is talk about as Paul suggested, the solution that we have an Tacoma. </p></sync>
+<sync start="2106000"/><p class="enuscc">We use on-dock rail as a condition mitigation. </p></sync>
+<sync start="2112000"/><p class="enuscc">We want to look at, at first the ingestion and then the opportunity of using it more rail. </p></sync>
+<sync start="2121000"/><p class="enuscc">Paul talked about 50 percent of all truck trips are empty. </p></sync>
+<sync start="2125000"/><p class="enuscc">We want to really concentrate on the efficiency of moving the car go to the end user. </p></sync>
+<sync start="2141000"/><p class="enuscc">With that, I will start. </p></sync>
+<sync start="2143000"/><p class="enuscc">Jennifer, I am not getting any-- </p></sync>
+<sync start="2145000"/><p class="enuscc">Is it not advancing? </p></sync>
+<sync start="2146000"/><p class="enuscc">There I go. </p></sync>
+<sync start="2148000"/><p class="enuscc">Let's look at the challenges. </p></sync>
+<sync start="2152000"/><p class="enuscc">What will the future bring? </p></sync>
+<sync start="2155000"/><p class="enuscc">We know that there is a lot of cargo demand out there. </p></sync>
+<sync start="2158000"/><p class="enuscc">We know that our communities are concerned about the quality of life as we bring this up cargo and and move it and what are the opportunities? </p></sync>
+<sync start="2170000"/><p class="enuscc">We know that China will continue to grow. </p></sync>
+<sync start="2178000"/><p class="enuscc">The folks on the west coast, but east and west coast are looking for alternatives, how do shippers' move their cargo to the market. </p></sync>
+<sync start="2185000"/><p class="enuscc">The shipping lines are looking at different possibilities and how to move the cargo to the market. </p></sync>
+<sync start="2192000"/><p class="enuscc">Can they use rail to reduce their truck traffic? </p></sync>
+<sync start="2198000"/><p class="enuscc">We know that the Panama Canal is expanding as all water services will expand with the expansion of the Panama Canal probably know that the Pacific Northwest, East Coast ports are being sold as alternatives to the Los Angeles </p></sync>
+<sync start="2207000"/><p class="enuscc">and Long Beach as well as Chicago traffic. </p></sync>
+<sync start="2217000"/><p class="enuscc">Let's look at the projection. </p></sync>
+<sync start="2223000"/><p class="enuscc">This is an industry it slide that has been used in industry presentations. </p></sync>
+<sync start="2227000"/><p class="enuscc">It is unconstrained. </p></sync>
+<sync start="2230000"/><p class="enuscc">The yellow line is the 2020 is a totally unconstrained and is compared to the 2004. </p></sync>
+<sync start="2242000"/><p class="enuscc">You can see that in the Los Angeles, Long Beach area, 13 million TEU which is a 20-foot equivalent, they are the small containers that you see on the back of a truck, 39 were moved in 2004. </p></sync>
+<sync start="2258000"/><p class="enuscc">Deaf projection, unconstrained is that 60 million will move in 2020. </p></sync>
+<sync start="2265000"/><p class="enuscc">Most of the other ports on this chart are currently slightly less than 2 million. </p></sync>
+<sync start="2272000"/><p class="enuscc">New York and New Jersey combine is 4 million, the same as Seattle and Tacoma. </p></sync>
+<sync start="2277000"/><p class="enuscc">They are the third largest load center. </p></sync>
+<sync start="2283000"/><p class="enuscc">As we look at that 60 million TEU Grove, where are we going to be able to move that cargo if Loss Angeles is not able to reach that number with the constraints that they have on them? </p></sync>
+<sync start="2298000"/><p class="enuscc">As I said the gateways will continue to grow. </p></sync>
+<sync start="2303000"/><p class="enuscc">These are the top 10 in the U .S.. </p></sync>
+<sync start="2309000"/><p class="enuscc">LA is projected to grow very large. </p></sync>
+<sync start="2316000"/><p class="enuscc">Oakland growth, Tacoma Road, Houston, Florida and New York/new Jersey. </p></sync>
+<sync start="2320000"/><p class="enuscc">The regions are aware of our current populations live. </p></sync>
+<sync start="2325000"/><p class="enuscc">In the Northwest there is Cascade yeah, down in California, but Northern and Southern, you have the Arizona sun belt, the Texas triangle and a huge area in the Midwest, the upper Northeast, the Atlantic and Florida. </p></sync>
+<sync start="2340000"/><p class="enuscc">The challenges that the growth is an even. </p></sync>
+<sync start="2347000"/><p class="enuscc">They are not flat that we would like to see of 10% a year. </p></sync>
+<sync start="2352000"/><p class="enuscc">Infrastructure does take 10 years to build, it usually about 20 years from concept to actual shuttle. </p></sync>
+<sync start="2360000"/><p class="enuscc">It is a challenge of who will pay for that. </p></sync>
+<sync start="2363000"/><p class="enuscc">Is a challenge of a neutrally benefits. </p></sync>
+<sync start="2365000"/><p class="enuscc">There is never enough money. </p></sync>
+<sync start="2369000"/><p class="enuscc">If we look who is growing, and you can see on the right side of this chart that China is continued for projected growth, but the growth will not be even, as with ports and with cargo, it will not be a constant 10% or constant 5%. </p></sync>
+<sync start="2391000"/><p class="enuscc">For the West Coast, Asia and Ports, again, it is the biggest. </p></sync>
+<sync start="2398000"/><p class="enuscc">We project an average of approximately 7 to 8% going into the next five years. </p></sync>
+<sync start="2403000"/><p class="enuscc">The other challenge is the large ship. </p></sync>
+<sync start="2413000"/><p class="enuscc">This is a 6800 TEU shipped it is under 1,000 feet long. </p></sync>
+<sync start="2416000"/><p class="enuscc">This is a comparison to what it looks like compared to the Eiffel Tower. </p></sync>
+<sync start="2423000"/><p class="enuscc">The Eiffel Tower is a thousand feet tall. </p></sync>
+<sync start="2426000"/><p class="enuscc">These ships, and this example is over 1,000 feet. </p></sync>
+<sync start="2432000"/><p class="enuscc">If you think of a football field, that is three times the average football field. </p></sync>
+<sync start="2440000"/><p class="enuscc">The ones that are being built right now is the one on the right side of the B-picture. </p></sync>
+<sync start="2448000"/><p class="enuscc">It is 12,000 TEU. </p></sync>
+<sync start="2457000"/><p class="enuscc">We believe that she could be up two 14,000. </p></sync>
+<sync start="2461000"/><p class="enuscc">We lost a slide 'let's move on. </p></sync>
+<sync start="2464000"/><p class="enuscc">Sheet generates a lot of challenge for the infrastructure, whether it is the container yards or the road infrastructure or the--there is also the environmental capacity. </p></sync>
+<sync start="2490000"/><p class="enuscc">As we look at consumption, consumption will follow our population growth. </p></sync>
+<sync start="2498000"/><p class="enuscc">This is an example for 20104 where the projection for the road will be. </p></sync>
+<sync start="2506000"/><p class="enuscc">On the coastal areas as well as the Midwest. </p></sync>
+<sync start="2513000"/><p class="enuscc">If we look at freight and what the answer is, we look at one of the studies the annual contest and relief index showed that 25 percent of our freight was shifted from truck to rail and the urban areas by 2025, </p></sync>
+<sync start="2526000"/><p class="enuscc">on average each consumer would save 43 hours a year. </p></sync>
+<sync start="2539000"/><p class="enuscc">We would save $965 congestion costs for that commuter. </p></sync>
+<sync start="2544000"/><p class="enuscc">We would save 95 gallons of fuel and would reduce air pollution by 934,000 tons. </p></sync>
+<sync start="2554000"/><p class="enuscc">I would like to spend some time looking at on-dock rail and Tacoma as a solution. </p></sync>
+<sync start="2559000"/><p class="enuscc">I just identified rail as a solution. </p></sync>
+<sync start="2562000"/><p class="enuscc">I would like to follow up on that. </p></sync>
+<sync start="2565000"/><p class="enuscc">At the Port of Tacoma, we have three guiding principles. </p></sync>
+<sync start="2568000"/><p class="enuscc">One is to grow our current customers, prepare for the future and be a good neighbor. </p></sync>
+<sync start="2575000"/><p class="enuscc">Of our philosophy is that we can grow in harmony with the environment and that ships travel and salmon swim in the same Waterways. </p></sync>
+<sync start="2586000"/><p class="enuscc">When we look at the benefits of rail, a single and intermodal train can remove up to 280 trucks from the roadway sitting as both lives, fuel, congestion, pollution and greenhouse gases. </p></sync>
+<sync start="2604000"/><p class="enuscc">If we look at the benefits of the freight rail, you can see from this chart that the highway congestion caused by rail is minimal. </p></sync>
+<sync start="2614000"/><p class="enuscc">Paul talked that each rail move it does have a truck at the beginning or end. </p></sync>
+<sync start="2620000"/><p class="enuscc">You can see that if we move drugs to rail, that will be a great help in our congestion. </p></sync>
+<sync start="2629000"/><p class="enuscc">At the Port of Tacoma, our number one goal is to be the most efficient and reliable intermodal it with. </p></sync>
+<sync start="2639000"/><p class="enuscc">We are not one of the few that have that high of a number. </p></sync>
+<sync start="2640000"/><p class="enuscc">Seattle may offers. </p></sync>
+<sync start="2645000"/><p class="enuscc">I believe that in LA they are trying to reach between 25 and 30%. </p></sync>
+<sync start="2651000"/><p class="enuscc">The East Coast also struggles with the local versus the long haul. </p></sync>
+<sync start="2655000"/><p class="enuscc">This is what we look like currently. </p></sync>
+<sync start="2660000"/><p class="enuscc">The Port of Tacoma has 600 acres of container terminals currently. </p></sync>
+<sync start="2666000"/><p class="enuscc">We do approximately 2 million TEUs and above 600,000 intermodal. </p></sync>
+<sync start="2677000"/><p class="enuscc">This is our forecast on the future. </p></sync>
+<sync start="2682000"/><p class="enuscc">You can see it that sorry. </p></sync>
+<sync start="2688000"/><p class="enuscc">I have to get Mike green Aero here. </p></sync>
+<sync start="2691000"/><p class="enuscc">Currently, we are here. </p></sync>
+<sync start="2699000"/><p class="enuscc">Our projections for 2025 are approximately 10 million TEUs moving approximately 300 million lifts by rail. </p></sync>
+<sync start="2720000"/><p class="enuscc">--lifts by rail. </p></sync>
+<sync start="2721000"/><p class="enuscc">I did that. </p></sync>
+<sync start="2725000"/><p class="enuscc">Try again on the next one if you can do it. </p></sync>
+<sync start="2726000"/><p class="enuscc">Okay. </p></sync>
+<sync start="2731000"/><p class="enuscc">We believe with land purchases and pretty much a doubling our ports we can have the capacity of an access of 90 million TEU, moving at 3 million by lifts. </p></sync>
+<sync start="2747000"/><p class="enuscc">You will have to control it for me. </p></sync>
+<sync start="2749000"/><p class="enuscc">Of caper but just let me know. </p></sync>
+<sync start="2751000"/><p class="enuscc">We will do it through redevelopment. </p></sync>
+<sync start="2756000"/><p class="enuscc">On the left side you can see that we have some old industries that are either the front or have moved to other areas. </p></sync>
+<sync start="2766000"/><p class="enuscc">We will replace that by cleaning up those lands and replacing it by a container terminal. </p></sync>
+<sync start="2777000"/><p class="enuscc">When we look at increasing capacity we have to make sure that-you have to have container yards, in our model and intermodal dock and what is the right combination. </p></sync>
+<sync start="2792000"/><p class="enuscc">A combination and Tacoma is much stronger on the rail in proportion than the current model in LA or the East Coast. </p></sync>
+<sync start="2802000"/><p class="enuscc">We have to balance with the identification of stored with velocity of the rail. </p></sync>
+<sync start="2810000"/><p class="enuscc">What I mean by that, you can either increase your dwell, and decrease your dwell. </p></sync>
+<sync start="2817000"/><p class="enuscc">A dwell is how long it sits on a dock. </p></sync>
+<sync start="2821000"/><p class="enuscc">If you decrease it by moving it faster, you gain capacity. </p></sync>
+<sync start="2829000"/><p class="enuscc">You can increase your densification by stacking it higher, but if you stack it higher and move faster, you gain in both areas. </p></sync>
+<sync start="2841000"/><p class="enuscc">At Tacoma we have four different colors, moving it faster, density, not trying to serve every community of picking the Northwest as our Nejd, reliability, making sure that the cargo moves when we say it is going to move, </p></sync>
+<sync start="2850000"/><p class="enuscc">and it gets to its destination on time. </p></sync>
+<sync start="2859000"/><p class="enuscc">We are now building disability into making sure that we are able to follow that container, somewhat like Paul said, it tracked the container and know when it is safe, secure and that it is moving efficiently. </p></sync>
+<sync start="2879000"/><p class="enuscc">When we do that, we add velocity and density. </p></sync>
+<sync start="2880000"/><p class="enuscc">This create capacity. </p></sync>
+<sync start="2883000"/><p class="enuscc">When we create our reliability we are providing better service and all three of those together provides the ability to grow. </p></sync>
+<sync start="2894000"/><p class="enuscc">When you look at capacity improvement, it is not just all building rail or a new facility. </p></sync>
+<sync start="2899000"/><p class="enuscc">You start with the process of identifying current things that could be improved by exchanging information, maybe not using the technology but just exchanging information. </p></sync>
+<sync start="2915000"/><p class="enuscc">Paul highlighted how exchanging information between the rail, port and truck drivers could increase our efficiency. </p></sync>
+<sync start="2924000"/><p class="enuscc">You want to look at the operational changes that can improve your financial returns,, some of your costs. </p></sync>
+<sync start="2932000"/><p class="enuscc">The third level is to implement technology such as Paul referenced, doing some more Web-based decision tools and looking at bringing and newer technology, cleaner equipment and the final thing is actually building more at rail, </p></sync>
+<sync start="2944000"/><p class="enuscc">whether it is an intermodal facility. </p></sync>
+<sync start="2957000"/><p class="enuscc">The final thing you will do is what I am going to talk about next. </p></sync>
+<sync start="2961000"/><p class="enuscc">We all have to be it team players. </p></sync>
+<sync start="2963000"/><p class="enuscc">It is a team sport. </p></sync>
+<sync start="2971000"/><p class="enuscc">We have developed the risk singularly as all separate silos. </p></sync>
+<sync start="2977000"/><p class="enuscc">We all need to work together and build it as a regional perspective and look at the demand and how we can grow together. </p></sync>
+<sync start="2990000"/><p class="enuscc">We need to engage our main lines and local DODs as well as our national and understand their plans and sharing hours. </p></sync>
+<sync start="2998000"/><p class="enuscc">We need to continue to define what is public and what is private and what the benefit to each is. </p></sync>
+<sync start="3007000"/><p class="enuscc">We need to investigate and develop new fund accepting options. </p></sync>
+<sync start="3012000"/><p class="enuscc">We need to engage our neighbors locally and nationally to prevent the deterioration of those relationships and quality of life. </p></sync>
+<sync start="3020000"/><p class="enuscc">We need to have more than a framework at the national level. </p></sync>
+<sync start="3028000"/><p class="enuscc">When I talk about a national freight policy, all of the partners, in this case I am referencing the railroads, they are trying to be good neighbors. </p></sync>
+<sync start="3037000"/><p class="enuscc">They are trying to minimize their environmental impact. </p></sync>
+<sync start="3041000"/><p class="enuscc">If we look at Southern California as an example, they are trying to build on-dock and near-dock yards. </p></sync>
+<sync start="3057000"/><p class="enuscc">It is primarily environmentally and solution driven and not related to the efficient movement of cargo. </p></sync>
+<sync start="3063000"/><p class="enuscc">None of us want to give up our local decision making, but we think we can work from the same playbook by having a national policy I will take questions at the end of the seminar. </p></sync>
+<sync start="3079000"/><p class="enuscc">Thanks very much for your Time. </p></sync>
+<sync start="3079000"/><p class="enuscc">Thanks, Jeannie. </p></sync>
+<sync start="3083000"/><p class="enuscc">We will get to questions after the final presentation. </p></sync>
+<sync start="3087000"/><p class="enuscc">I encourage you to post any questions you might have 48, Paul or our final presenter comments Michael Meyer. </p></sync>
+<sync start="3096000"/><p class="enuscc">Our final presentation will be given by Mike Meyer of Georgia Tech. </p></sync>
+<sync start="3097000"/><p class="enuscc">Big too, very much. </p></sync>
+<sync start="3103000"/><p class="enuscc">I will try to speak as fast as I can so that we have time for the Q&amp;A. </p></sync>
+<sync start="3113000"/><p class="enuscc">In 2005 Georgia conducted a feasibility study of high occupancy toll lanes. </p></sync>
+<sync start="3119000"/><p class="enuscc">Percent to also take a look at drug-only toll lane. </p></sync>
+<sync start="3122000"/><p class="enuscc">I will talk about the results of that particular study. </p></sync>
+<sync start="3125000"/><p class="enuscc">It is very important to understand that this is what we called a proof of concept Analysis. </p></sync>
+<sync start="3132000"/><p class="enuscc">When used an existing drug table and database. </p></sync>
+<sync start="3136000"/><p class="enuscc">We did not have the time our budget to do much modification. </p></sync>
+<sync start="3139000"/><p class="enuscc">We were trying to see what the potential benefits might be of doing a truck only toll lane networks or some form of Net work in the Atlantic Region. </p></sync>
+<sync start="3149000"/><p class="enuscc">It was on the available truck that that we had available, the HOT analysis that preceded it and we assumed at least an one alternative that facilities could be billed. </p></sync>
+<sync start="3159000"/><p class="enuscc">We did not do a detailed engineering study to look at the feasibility of adding lanes in some of these corridors. </p></sync>
+<sync start="3166000"/><p class="enuscc">It is important to understand, as you have heard from the other speakers, there are very important representations that need to be a part of studies like this. </p></sync>
+<sync start="3178000"/><p class="enuscc">We had the Atlanta Regional Council, state agencies. </p></sync>
+<sync start="3181000"/><p class="enuscc">It is also important to look at the bottom three that we had representatives from the trucking industry and the industry in Atlanta itself that would play a very important role in advising this particular study. </p></sync>
+<sync start="3192000"/><p class="enuscc">I will talk about that in a bit. </p></sync>
+<sync start="3196000"/><p class="enuscc">The purpose of the webinar is to talk about trading congestion. </p></sync>
+<sync start="3200000"/><p class="enuscc">This is projected to be Atlanta and 23. </p></sync>
+<sync start="3203000"/><p class="enuscc">It is the epitome of urban congestion. </p></sync>
+<sync start="3207000"/><p class="enuscc">Legacy and red is an contestant in the metropolitan area. </p></sync>
+<sync start="3213000"/><p class="enuscc">For those of you not familiar with Atlanta, I will be using terms later. </p></sync>
+<sync start="3218000"/><p class="enuscc">This is Interstate 285 known as the perimeter. </p></sync>
+<sync start="3223000"/><p class="enuscc">I will be talking about Interstate 75. </p></sync>
+<sync start="3227000"/><p class="enuscc">Interstate 85 comes from here and back down this way. </p></sync>
+<sync start="3229000"/><p class="enuscc">Those are the two or the interstates that I will be referring to when I talk about the potential trouble spots. </p></sync>
+<sync start="3235000"/><p class="enuscc">This will suggest that we will have significant congestion on the general purpose lines in the future. </p></sync>
+<sync start="3245000"/><p class="enuscc">We will be looking at HOV vehicles. </p></sync>
+<sync start="3247000"/><p class="enuscc">Which looked at the peak and that the year 2030 and saw that there was potentially a lot of access capacity available in the HOV lanes that were already in existence and those that were being proposed. </p></sync>
+<sync start="3260000"/><p class="enuscc">This led to an alternative, which I will talk about in a minute which is a bit controversial. </p></sync>
+<sync start="3270000"/><p class="enuscc">We were looking at the 523 as the target analysis year, inside of Interstate 2851 lane in each direction and outside, two Land. </p></sync>
+<sync start="3281000"/><p class="enuscc">The concept was to manage the Performance of those lanes themselves to maximize the demand on those. </p></sync>
+<sync start="3286000"/><p class="enuscc">This is what we meant by manage. </p></sync>
+<sync start="3289000"/><p class="enuscc">Want to maintain free flow conditions by Global Service D on the managed lanes themselves. </p></sync>
+<sync start="3299000"/><p class="enuscc">Free flow conditions for the regions, the buzz of rapid transit network. </p></sync>
+<sync start="3302000"/><p class="enuscc">They could use them as well and the overall objective was to maximize the use of the capacity on the road system. </p></sync>
+<sync start="3309000"/><p class="enuscc">By were we interested in this? </p></sync>
+<sync start="3312000"/><p class="enuscc">To Atlanta is, whether you define it not one way or another it is the fourth or fifth largest logistic Center in the country. </p></sync>
+<sync start="3320000"/><p class="enuscc">They take up a lot of space on the road per our look at the growth in the national economy suggests that we will see many, many more trips in the future than we have today. </p></sync>
+<sync start="3333000"/><p class="enuscc">We experience a fear number of truck and auto crashes. </p></sync>
+<sync start="3336000"/><p class="enuscc">If we could separate the trucks, there might be some significant benefits on the state decide as well. </p></sync>
+<sync start="3342000"/><p class="enuscc">This is an important assumption which came from the industry representatives on the study, not surprisingly, that we assumed best I will go back to that in a little bit. </p></sync>
+<sync start="3360000"/><p class="enuscc">The value of time that we assume is $35 per hour for heavy trucks and $18 per hour for light truck. </p></sync>
+<sync start="3370000"/><p class="enuscc">The industry representatives came in and suggested that this is what they believe they think is the value of Time. </p></sync>
+<sync start="3379000"/><p class="enuscc">We used those that know that they are conservative assumptions. </p></sync>
+<sync start="3382000"/><p class="enuscc">The fees would be charged when needed to manage the lands and the performance of the lanes. </p></sync>
+<sync start="3387000"/><p class="enuscc">If it got more congested, they would go up. </p></sync>
+<sync start="3390000"/><p class="enuscc">Those are the variable fees. </p></sync>
+<sync start="3392000"/><p class="enuscc">One tot equals two cars. </p></sync>
+<sync start="3397000"/><p class="enuscc">We also did not go through and rate code the network for truck only interchanges. </p></sync>
+<sync start="3405000"/><p class="enuscc">Where the HOV was going to be where we would have trucks access and egress as well provoke this is a high level assumption. </p></sync>
+<sync start="3416000"/><p class="enuscc">As I said before, buses could use TOT lanes as well. </p></sync>
+<sync start="3419000"/><p class="enuscc">Alternative one was not looking at the engineering feasibility of it but assuming that you could build lanes on existing HOV lanes or highways. </p></sync>
+<sync start="3433000"/><p class="enuscc">The second alternative was the same as that but inside 285 where trucks are not allowed except by permit during the middle of the day, </p></sync>
+<sync start="3443000"/><p class="enuscc">we would reserve the HOV lanes for light duty trucks per we felt that there might be some feasibility and some motivation for trucks to use those inside 285. </p></sync>
+<sync start="3454000"/><p class="enuscc">Alternative three, which could be the most controversial was instead of using the proposed HOV system in the networked, what if we turned those lanes over to TOT </p></sync>
+<sync start="3464000"/><p class="enuscc">and the HOV would be put back into the general purpose flow per you will see the results of that in a moment. </p></sync>
+<sync start="3475000"/><p class="enuscc">This is alternative one. </p></sync>
+<sync start="3478000"/><p class="enuscc">We were looking at two corridors in particular. </p></sync>
+<sync start="3484000"/><p class="enuscc">One was the number/south Road which was from Interstate 175 going on long 85 and down 285-1075 this direction. </p></sync>
+<sync start="3498000"/><p class="enuscc">We also have the east-west from 75 to 85. </p></sync>
+<sync start="3502000"/><p class="enuscc">The selection of those was primarily based on high truck volume and projected by truck volume. </p></sync>
+<sync start="3508000"/><p class="enuscc">We believe they were the most feasible, at least from the initial start. </p></sync>
+<sync start="3511000"/><p class="enuscc">We would do the analysis to see what they meant. </p></sync>
+<sync start="3514000"/><p class="enuscc">This is alternative to inside of 285. </p></sync>
+<sync start="3519000"/><p class="enuscc">Which in the existing HOV lane to light trucks during the day. </p></sync>
+<sync start="3530000"/><p class="enuscc">The third alternative we turn it over to a TOT. </p></sync>
+<sync start="3533000"/><p class="enuscc">The study itself looked at many different measures. </p></sync>
+<sync start="3537000"/><p class="enuscc">I will talk about a couple of them, truck productivity. </p></sync>
+<sync start="3544000"/><p class="enuscc">If you look at the North/south Road, if you start on Sunday five north and go on 285 and end up on 75 South, then during the peak period, </p></sync>
+<sync start="3555000"/><p class="enuscc">the difference between traveling in the general-purpose lame horses being in at the TOT was in a savings of 70 minutes for that truck flow. </p></sync>
+<sync start="3566000"/><p class="enuscc">On the east-west, coming from 75 North, coming down to 85 going up 85, comparing the general purpose travel time, with the TOT, travel time there was a savings of 80 minutes that would factor in the TOT. </p></sync>
+<sync start="3584000"/><p class="enuscc">This figure looks at a comparison, if you will of what we call the percent--in terms of a given certain conditions whether they were free flow segments or near capacity segments or at capacity. </p></sync>
+<sync start="3599000"/><p class="enuscc">We were looking at the HOV two plus days as a comparison and another alternative in the TOT. </p></sync>
+<sync start="3607000"/><p class="enuscc">What you see, not surprisingly is because we are managing the lanes, they have little to ingestion. </p></sync>
+<sync start="3612000"/><p class="enuscc">On the right side you will see 0 percent contestant in terms of those particular alternative. </p></sync>
+<sync start="3618000"/><p class="enuscc">What is interesting is if you look at the network level and not surprisingly the VMT does not change. </p></sync>
+<sync start="3627000"/><p class="enuscc">It did not change very dramatically. </p></sync>
+<sync start="3632000"/><p class="enuscc">What we did see with TOT was a significant decrease in terms of the pickle hours travel. </p></sync>
+<sync start="3640000"/><p class="enuscc">In essence, the productivity, if you will, going with TOT employees showed a substantial gain. </p></sync>
+<sync start="3646000"/><p class="enuscc">Looking at the general purpose lanes, this is in the Peak hour at this case. </p></sync>
+<sync start="3652000"/><p class="enuscc">The percent of the land that were at near capacity, they are at capacity, comparing the Dutch-what you see is the percent of free flow goes up dramatically. </p></sync>
+<sync start="3669000"/><p class="enuscc">At capacity is between a 17 and 24 percent reduction in congested purpose directional miles, which looking at the other things that we are looking at in Atlanta, we are trying to figure out how to reduce congestion. </p></sync>
+<sync start="3680000"/><p class="enuscc">This is not one of the biggest reductions that we have seen. </p></sync>
+<sync start="3685000"/><p class="enuscc">The other issue was, what happens to the other arterial is in the Network? </p></sync>
+<sync start="3690000"/><p class="enuscc">The Atlanta road network, it does the TOT ring trips into those land and take trips off of the arterial? </p></sync>
+<sync start="3698000"/><p class="enuscc">Legacy and green is a production and truck trips and everything and run back and orange is an increase. </p></sync>
+<sync start="3704000"/><p class="enuscc">What is he, at least from this is a pretty substantial decline in number of truck trips to go there seems to be trucked diverting to the TOT. </p></sync>
+<sync start="3716000"/><p class="enuscc">This figure shows the percent that operate during the peak hour with free flow near capacity or at capacity contested segments. </p></sync>
+<sync start="3724000"/><p class="enuscc">What you see is a 10 to 50% reduction in the suggestion, if you will because of the existence of some form of a TOT lane. </p></sync>
+<sync start="3735000"/><p class="enuscc">Air quality is an important issue. </p></sync>
+<sync start="3739000"/><p class="enuscc">We have the commission model for good because there was substantial change in the VMT and other aspects of this, they did not find any significant change whatsoever. </p></sync>
+<sync start="3748000"/><p class="enuscc">We did not do a detailed safety analysis of this, because it was difficult for us to find out the change, if you will, in terms of trap catches that would occur given the TOT lanes. </p></sync>
+<sync start="3759000"/><p class="enuscc">We think there will be significant if the benefits by moving them from the general purpose lane to general traffic flow. </p></sync>
+<sync start="3769000"/><p class="enuscc">Another big issue is revenue purpose is of great concern to the toll authority, and the to do their part of this is at about potential public and the pub/but the partnership. </p></sync>
+<sync start="3781000"/><p class="enuscc">Because it is a much more extensive network, it showed a much larger annual revenue expected, about $200 million based on the voluntary use of those lanes by trucks that were facing condition </p></sync>
+<sync start="3791000"/><p class="enuscc">and the smallest amount was about 90 million for those two quarters, not surprisingly. </p></sync>
+<sync start="3802000"/><p class="enuscc">What did we learn about his experience with regard to TOT lanes? </p></sync>
+<sync start="3808000"/><p class="enuscc">We do believe that there are some pretty substantial freight and passenger Movement improvements. </p></sync>
+<sync start="3813000"/><p class="enuscc">The general purpose lane suggestion goes down for the ability of the trucks to go through the network if they are using the TOT lanes, goes up. </p></sync>
+<sync start="3827000"/><p class="enuscc">There is greater reliability in terms of the TOT use. </p></sync>
+<sync start="3830000"/><p class="enuscc">We are managing them for the level of service. </p></sync>
+<sync start="3834000"/><p class="enuscc">We believe that it is a much safer travel condition. </p></sync>
+<sync start="3836000"/><p class="enuscc">Truck operators save time and increase productivity. </p></sync>
+<sync start="3840000"/><p class="enuscc">As I said before, the number of vehicle miles traveled stays the same but fewer hours. </p></sync>
+<sync start="3846000"/><p class="enuscc">We believe that from a cost effect in this basis that there is some substantial benefit in using some of the revenue generated to put in place as well as possibly capitalize the construction itself. </p></sync>
+<sync start="3865000"/><p class="enuscc">Looking at not only the different types of TOT lane perhaps, but the toll authority was also interested in India HOT lanes, or versus a HOV system, which received an capital or operating costs if you cannot build out as much as you can, </p></sync>
+<sync start="3874000"/><p class="enuscc">what would you put there? </p></sync>
+<sync start="3883000"/><p class="enuscc">There was a whole series of measures of its effectiveness that we looked at. </p></sync>
+<sync start="3889000"/><p class="enuscc">This shows, not surprisingly, for the TOT, you get net revenue over operating costs of 057 million. </p></sync>
+<sync start="3900000"/><p class="enuscc">Versus 18 million for the HOT and a negative for it the HOV. </p></sync>
+<sync start="3905000"/><p class="enuscc">You did not get that much revenue from them at all parts of the regional value of annual time savings, again, from the comparison of the high occupancy toll--being turned over to TOT lanes, D.C. </p></sync>
+<sync start="3922000"/><p class="enuscc">The difference of 330 million versus 1,101,000,000, 1,101,000,000,000. </p></sync>
+<sync start="3940000"/><p class="enuscc">It is very similar to what we saw before in terms of analysis. </p></sync>
+<sync start="3945000"/><p class="enuscc">A 20% increase in the free flow performance on the general flow lines by taking the drugs out of them and putting them into their own lanes. </p></sync>
+<sync start="3954000"/><p class="enuscc">We looked at implementation very carefully from the institutional perspective as well as some of the other elements that we thought would be important in terms of implementing something like this. </p></sync>
+<sync start="3967000"/><p class="enuscc">Those highlighted in red on this slide, steps are being taken or have been taken to implement some of these things. </p></sync>
+<sync start="3973000"/><p class="enuscc">I will talk about them in a minute. </p></sync>
+<sync start="3975000"/><p class="enuscc">The implementation includes looking at a whole range of organizational responsibilities on who should do the planning, development, operate, maintain, and force, a lot of discussions on those issues. </p></sync>
+<sync start="3992000"/><p class="enuscc">What are the basic principles for putting something like this and please? </p></sync>
+<sync start="3997000"/><p class="enuscc">What is the pricing strategy in terms of different strategies for different corridors, one region wide strategy, what should the fee per mile the? </p></sync>
+<sync start="4006000"/><p class="enuscc">You do it corridor by corridor. </p></sync>
+<sync start="4009000"/><p class="enuscc">To look at it at the regional level purpose and steps have been made by the door to Department of Transportation and not looking at not only regional but statewide possibilities of TOT. </p></sync>
+<sync start="4023000"/><p class="enuscc">The plan, up until this study said we should do manage lanes brother was not much discussion about what that meant. </p></sync>
+<sync start="4031000"/><p class="enuscc">The study got people talking about the use of these four tracks. </p></sync>
+<sync start="4036000"/><p class="enuscc">Incorporating a TOT alternative and quarter studies. </p></sync>
+<sync start="4038000"/><p class="enuscc">The initial steps have been taken. </p></sync>
+<sync start="4043000"/><p class="enuscc">Looking at the potential for public/private partnerships permit it has been designed and in discussion with regard to the private investors in terms of investing and potential TOT quarters and expanding them to HOV. </p></sync>
+<sync start="4062000"/><p class="enuscc">How Do you reach out to the public? </p></sync>
+<sync start="4066000"/><p class="enuscc">How are you going to be consistent with your collection of fees that is consistent with other things. </p></sync>
+<sync start="4072000"/><p class="enuscc">If you have a smart card, could it be used for transit and parking at the airport as well as using the lanes in the Atlanta area but the travel demand model although it was not modified in any way for this, </p></sync>
+<sync start="4090000"/><p class="enuscc">we believe it was a useful tool for showing the proof of concept, the whole issue of technical analysis and political advocacy, it had a significant impact in terms of local decision makers in terms of looking at this possibility </p></sync>
+<sync start="4092000"/><p class="enuscc">and a little more detail. </p></sync>
+<sync start="4102000"/><p class="enuscc">It was mentioned before by Paul that it was viewed as adversarial. </p></sync>
+<sync start="4106000"/><p class="enuscc">I do not think people here thought about free movement and truck movement, although we are the fourth or fifth largest logistical center in the city. </p></sync>
+<sync start="4113000"/><p class="enuscc">There are a lot of decision makers that were realizing what does predict could mean for the freight industry and the economy of their region. </p></sync>
+<sync start="4124000"/><p class="enuscc">Including track representatives was important and tying them to the bus and the transit system. </p></sync>
+<sync start="4130000"/><p class="enuscc">It has not been resolved and is still an issue with regard to this one corridor I talked about on wood and 75 North, are they mandatory use or voluntary? </p></sync>
+<sync start="4143000"/><p class="enuscc">Mandatory use will get more benefits from the perspective of the intestine relief on the general purpose lanes. </p></sync>
+<sync start="4148000"/><p class="enuscc">That also runs into all sorts of issues with regard to the trucking industry. </p></sync>
+<sync start="4154000"/><p class="enuscc">I have already mentioned quarter results and trade-offs between a HOV and fill in the blank. </p></sync>
+<sync start="4166000"/><p class="enuscc">Some extensions since that study, this is the web site for those interested. </p></sync>
+<sync start="4171000"/><p class="enuscc">Since 2005 we have done some interesting work on the research side from their. </p></sync>
+<sync start="4177000"/><p class="enuscc">Remember what I said before is that we chose the alternative one on the basis of major troubles on not, south, east, west. </p></sync>
+<sync start="4191000"/><p class="enuscc">But how would you go about doing a regional analysis, if you will with the judge how do you identify the corridors that are feasible for something like this what he came up with five criteria, used the geographic information system, </p></sync>
+<sync start="4198000"/><p class="enuscc">and you will see how that came together. </p></sync>
+<sync start="4206000"/><p class="enuscc">Criteria one is where is there a level of service that is pretty bad. </p></sync>
+<sync start="4210000"/><p class="enuscc">If you have a lot of congestion, there would be more willingness to avoid that. </p></sync>
+<sync start="4216000"/><p class="enuscc">Would see on the left side is where you see the congestion. </p></sync>
+<sync start="4220000"/><p class="enuscc">On the right side, want to have a fairly high level of trucks on the road that would be willing to move over. </p></sync>
+<sync start="4227000"/><p class="enuscc">What is seen on the right side and red are descendants of the freeway network that have high volumes of trucks parked on the left is the daily truck presented in terms of percentage of tracks both medium and heavy in each direction. </p></sync>
+<sync start="4240000"/><p class="enuscc">You want to have some concentration of trucks and certain periods of time. </p></sync>
+<sync start="4245000"/><p class="enuscc">On the right side is where there are high drug related crashes on the network in the Atlanta freeway system compared to the regional and state average. </p></sync>
+<sync start="4255000"/><p class="enuscc">By me, on the left, there was a willingness to pay a survey that was done on the and the state Senate by a quarter where we got information about what truckers would be willing to pay to avoid some of the congestion. </p></sync>
+<sync start="4270000"/><p class="enuscc">When you see on the left-hand side is in red where in fact, there seemed to be enough benefits in terms of the congestion that would be occurring and trying to avoid that suggestion. </p></sync>
+<sync start="4280000"/><p class="enuscc">Truckers would be willing to pay to avoid the. </p></sync>
+<sync start="4283000"/><p class="enuscc">On the right hand side is putting those criteria on top of one another and what comes out in the turquoise there are those segments of the freeway network that satisfy all five criteria, </p></sync>
+<sync start="4295000"/><p class="enuscc">which would suggest that there would then be those corridors that you would look at in a little more detail with regard to potential TOT lane application. </p></sync>
+<sync start="4307000"/><p class="enuscc">In the study, what the individuals looked at was, where are the steps that one follows to look at TOT lanes and the identification of potential corridors and then get into issues of where you place them, where are the access point </p></sync>
+<sync start="4317000"/><p class="enuscc">and what type of vehicle eligibility are you talking about? </p></sync>
+<sync start="4327000"/><p class="enuscc">What are the pricing strategies and financing mechanisms you put in place. </p></sync>
+<sync start="4331000"/><p class="enuscc">I am done. </p></sync>
+<sync start="4333000"/><p class="enuscc">I am finished. </p></sync>
+<sync start="4334000"/><p class="enuscc">Thank you. </p></sync>
+<sync start="4339000"/><p class="enuscc">I will go ahead and go back to your slide with the address for the study. </p></sync>
+<sync start="4346000"/><p class="enuscc">Okay. </p></sync>
+<sync start="4350000"/><p class="enuscc">What I will do is start of the question and answer session. </p></sync>
+<sync start="4355000"/><p class="enuscc">While I have the first presenter answering the first question, I will bring up eight slide. </p></sync>
+<sync start="4361000"/><p class="enuscc">I encourage you to go to the Web site to learn about the program. </p></sync>
+<sync start="4368000"/><p class="enuscc">Is a great way to receive technical assistance on freight-related questions. </p></sync>
+<sync start="4371000"/><p class="enuscc">The first question is for Mike Meyer. </p></sync>
+<sync start="4374000"/><p class="enuscc">Why did you used to derive the value of time used on slide nine? </p></sync>
+<sync start="4378000"/><p class="enuscc">Would you consider any effort to divide a value for the opportunity cost [ indiscernible ] in addition to the hourly direct cost? </p></sync>
+<sync start="4387000"/><p class="enuscc">What we used for the value of time was that we've looked at other studies across the country and the value of time that they were using and relied on our industry representatives. </p></sync>
+<sync start="4398000"/><p class="enuscc">We did not have the willingness to pay the survey at this point in time at the beginning part of the study were not able to use that information, if you will, to derive a value of time. </p></sync>
+<sync start="4412000"/><p class="enuscc">The value of times were very much employers by the industry representatives, a part of our group that looked at it and said, a year is what we believe the value of time is for the movement of our trucks on the region. </p></sync>
+<sync start="4423000"/><p class="enuscc">And a lot were not intercity tracks. </p></sync>
+<sync start="4427000"/><p class="enuscc">We know it is higher than for local distribution. </p></sync>
+<sync start="4430000"/><p class="enuscc">As I said, it was a very conservative assumption. </p></sync>
+<sync start="4435000"/><p class="enuscc">We realize it was a conservative assumption but was bought into by the industry representatives on the steering Committee. </p></sync>
+<sync start="4441000"/><p class="enuscc">Thank you. </p></sync>
+<sync start="4445000"/><p class="enuscc">I will go back up to the top of a we had a few questions for Paul Belella. </p></sync>
+<sync start="4451000"/><p class="enuscc">I will start with those questions proposed what was the source of your statistics on your first slide? </p></sync>
+<sync start="4460000"/><p class="enuscc">It is a conglomeration of statistics from multiple sources. </p></sync>
+<sync start="4462000"/><p class="enuscc">There is one input together that you are interested and that's what I will do for all of the folks, there are probably a couple of questions that are better answered offline. </p></sync>
+<sync start="4482000"/><p class="enuscc">I will put and the chap section my e-mail address--the chat section section my e-mail address and send it to everyone. </p></sync>
+<sync start="4492000"/><p class="enuscc">If you have questions, as there were probably six or seven different sources on their. </p></sync>
+<sync start="4501000"/><p class="enuscc">Some of them wherefrom the FHWA Web site. </p></sync>
+<sync start="4504000"/><p class="enuscc">If there is a one entity dinner that you are interested in, sending an e-mail and I will give you the specific source for that item, rather than do it by trial and error and give you the individual source for the whole list their. </p></sync>
+<sync start="4517000"/><p class="enuscc">That sounds like a good idea. </p></sync>
+<sync start="4520000"/><p class="enuscc">My E-mail address should be up in the chat section section. </p></sync>
+<sync start="4522000"/><p class="enuscc">It is their. </p></sync>
+<sync start="4529000"/><p class="enuscc">The next question for you is that you mentioned methods and reducing Track estimates. </p></sync>
+<sync start="4536000"/><p class="enuscc">This will sound a little bit like a cop out as well, but what my recommendation there is if you e-mail me, I will send you the actual report. </p></sync>
+<sync start="4546000"/><p class="enuscc">We did a case study as a follow on to the development of a concept of Operations four at the C-TIP. </p></sync>
+<sync start="4556000"/><p class="enuscc">Within that case study, we explain the approach we took to identify what potential benefits were. </p></sync>
+<sync start="4562000"/><p class="enuscc">It is not something that I think that we can do justice to by giving you this answer here. </p></sync>
+<sync start="4573000"/><p class="enuscc">My suggestion is that you e-mail me and I will or the staff person I had the most of the analysis for the study or both of us will be happy to talk through that and answer any questions you have. </p></sync>
+<sync start="4586000"/><p class="enuscc">Seen the report is the best way to start with that rather than trying to explain the methods right here off the top of my head. </p></sync>
+<sync start="4592000"/><p class="enuscc">Okay. </p></sync>
+<sync start="4595000"/><p class="enuscc">The next question for you is what institutional barriers have you encountered so far with C-TIP? </p></sync>
+<sync start="4602000"/><p class="enuscc">It is interesting. </p></sync>
+<sync start="4605000"/><p class="enuscc">When the a hundred pound gorilla in the room decides that they want to try to do something, it is amazing how many other people step in-line. </p></sync>
+<sync start="4619000"/><p class="enuscc">I have to give a lot of credit to the railroads. </p></sync>
+<sync start="4623000"/><p class="enuscc">The railroads provide by the Business. </p></sync>
+<sync start="4628000"/><p class="enuscc">They are there to serve those railroads. </p></sync>
+<sync start="4632000"/><p class="enuscc">That tended to reduce the number of institutional issues that you might encounter otherwise. </p></sync>
+<sync start="4638000"/><p class="enuscc">I think that carries over to what I think the next question is which is about Data sharing. </p></sync>
+<sync start="4646000"/><p class="enuscc">When the primary players are all at the table and the risk of the folks there tend to be more in the support role, you tend to get past a lot of those issues. </p></sync>
+<sync start="4658000"/><p class="enuscc">As I mentioned before, we had them for railroads, Union Pacific, Kansas City Southern [ indiscernible ], and I feel terrible. </p></sync>
+<sync start="4668000"/><p class="enuscc">I am trying to recall the four. </p></sync>
+<sync start="4669000"/><p class="enuscc">Norfolk Southern. </p></sync>
+<sync start="4670000"/><p class="enuscc">That is what it was. </p></sync>
+<sync start="4673000"/><p class="enuscc">All of those folks were at the table. </p></sync>
+<sync start="4677000"/><p class="enuscc">Union Pacific spearheaded this effort. </p></sync>
+<sync start="4683000"/><p class="enuscc">We are experiencing some challenges with railroads being able to provide connectivity. </p></sync>
+<sync start="4691000"/><p class="enuscc">What you require is-not necessarily a live feed but a timely feed about load requirements. </p></sync>
+<sync start="4696000"/><p class="enuscc">It is not as much about not being willing to share the data as it is needed to defray the risk, the cost associated with providing the connectivity which has been a challenge in this case. </p></sync>
+<sync start="4716000"/><p class="enuscc">I think that when we get some federal funding, I believe it is Kansas who has already committed money or is matching, I noticed the other partners have committed matching efforts, </p></sync>
+<sync start="4728000"/><p class="enuscc">once there is a commitment in terms of real money that is put out there to make this happen, I think a lot of those concerns will be alleviated, </p></sync>
+<sync start="4741000"/><p class="enuscc">because the risk associated with providing the connectivity will be reduced because there are other folks contributing to the effort and it will not be something looked upon as a segmented effort. </p></sync>
+<sync start="4753000"/><p class="enuscc">It will tie everything together and address some of those. </p></sync>
+<sync start="4757000"/><p class="enuscc">In terms of some of the other institutional issues, if the railroad said they wanted the trucking company to specifically say, even if we do not buy into the concept at first, we can see why we are trying to do it. </p></sync>
+<sync start="4779000"/><p class="enuscc">In fact, the resistance to participation is in proportion--the more sophisticated carriers see this as a real potential boon to their operation, because they can plan their day </p></sync>
+<sync start="4790000"/><p class="enuscc">and reallocate their own resources internally away from moving and the lows that you do not get paid for to moving real live loads that you do get paid for. </p></sync>
+<sync start="4802000"/><p class="enuscc">It tends to vary with the degree of enlightenment with the carrier. </p></sync>
+<sync start="4805000"/><p class="enuscc">Bose said understand the proposition are more than willing to sign up and make it happen. </p></sync>
+<sync start="4808000"/><p class="enuscc">Okay. </p></sync>
+<sync start="4813000"/><p class="enuscc">We have a question for Jeannie Beckett. </p></sync>
+<sync start="4816000"/><p class="enuscc">Let me go back up. </p></sync>
+<sync start="4822000"/><p class="enuscc">I think we have two. </p></sync>
+<sync start="4826000"/><p class="enuscc">I am just going to jump down for a second. </p></sync>
+<sync start="4835000"/><p class="enuscc">Do your growth projections include container diversions to the new Prince Rupert [ indiscernible ] in Canada but. </p></sync>
+<sync start="4849000"/><p class="enuscc">Our projections are based on building--terminal by the terminal with discussions with our terminal operators and the shipping lines that they have or forecast to have and additional land that we are currently purchasing or read developing. </p></sync>
+<sync start="4870000"/><p class="enuscc">The second point is, you saw a slight that was unconstrained for LA/long beach that showed the demand for LA/long beach if they are only allowed to grow two 35 or 40, </p></sync>
+<sync start="4889000"/><p class="enuscc">that the someplace between 20 plus million that other ports have to be ready to move, whether that is West Coast, Mexico, Canada or it U.S. was coast or moving water through and to the east coast. </p></sync>
+<sync start="4909000"/><p class="enuscc">We have to remember that LA/long beach grows a whole port every year. </p></sync>
+<sync start="4915000"/><p class="enuscc">They grow about 2 million with TEUs every year. </p></sync>
+<sync start="4918000"/><p class="enuscc">Based on that data point, I guess that, we are very aware that Prince Rupert could cause conversion from the Pacific Northwest into our prime markets and to Chicago and beyond. </p></sync>
+<sync start="4933000"/><p class="enuscc">I think there is plenty of cargo for all of us to prepare for and that none of us should hold back and concerns that there is other competition. </p></sync>
+<sync start="4946000"/><p class="enuscc">We need to move forward with our construction and preparation for the next 20 years. </p></sync>
+<sync start="4950000"/><p class="enuscc">Thank you. </p></sync>
+<sync start="4957000"/><p class="enuscc">Another question for you is, how have you engaged MPO in our decision making cracks. </p></sync>
+<sync start="4964000"/><p class="enuscc">Very regularly meet with our regional council, which is our MPO. </p></sync>
+<sync start="4971000"/><p class="enuscc">We have active discussions in our committee levels, whether it is through the end assignable corridor Coalition or the west coast coalition or our other committees, such as the prosperity partnership. </p></sync>
+<sync start="4989000"/><p class="enuscc">I think that the challenge for the Regional Council staff is for the freight division, the MPO is primarily the planning emphasis is on moving people, not on freight. </p></sync>
+<sync start="5005000"/><p class="enuscc">As they see our need to move freight, the challenge is to make sure that because we have all heard the adage that freight does not vote, that trade is part of the process. </p></sync>
+<sync start="5021000"/><p class="enuscc">We have been actively involved with them, but it is still primarily moving people. </p></sync>
+<sync start="5025000"/><p class="enuscc">Okay. </p></sync>
+<sync start="5028000"/><p class="enuscc">This is a question that I will open up to all three presenters and give you a chance to comment on it provoked the recent survey of shippers shows that about 6% of volume will shift from rail to a [ indiscernible ] due to price concerns. </p></sync>
+<sync start="5047000"/><p class="enuscc">Does the panel have any comments on this ship products I guess, Paul, we can start with you. </p></sync>
+<sync start="5054000"/><p class="enuscc">I do not know much about the context of the study who or what kind of freight they are talking about moving. </p></sync>
+<sync start="5067000"/><p class="enuscc">The service concern--within the it real community about the ability for them to match it schedules and delivered on time. </p></sync>
+<sync start="5076000"/><p class="enuscc">I think I would be interested and would reserve comment on that until I understand what commodities are likely to be and shifted. </p></sync>
+<sync start="5089000"/><p class="enuscc">I think that you generally see a fluctuation back and forth with based on on-time performance, the variation in demand coming through at certain access points into the U.S., certain ports. </p></sync>
+<sync start="5110000"/><p class="enuscc">It might be that it is related to our program being moved from one port to one that has little or none. </p></sync>
+<sync start="5118000"/><p class="enuscc">I would like to know the context before I comment on that. </p></sync>
+<sync start="5124000"/><p class="enuscc">Okay. </p></sync>
+<sync start="5124000"/><p class="enuscc">Jeannie? </p></sync>
+<sync start="5128000"/><p class="enuscc">I think Paul gave a good explanation of some of the challenges. </p></sync>
+<sync start="5132000"/><p class="enuscc">The other challenges on the west coast within the next 12 months are renegotiation of a contract. </p></sync>
+<sync start="5141000"/><p class="enuscc">I am sure that all shippers are looking at alternatives in preparation after the last contract in 2002 where there was a lock out. </p></sync>
+<sync start="5157000"/><p class="enuscc">They are looking at multiple ports, multiple countries, multiple vehicles, whether it is-they are using rail and looking at more tracking. </p></sync>
+<sync start="5166000"/><p class="enuscc">What they learned last time is that if they were not using a vendor before the lockout, the vendor had no capacity for them when it occurred. </p></sync>
+<sync start="5178000"/><p class="enuscc">I am not familiar with the study. </p></sync>
+<sync start="5187000"/><p class="enuscc">6% is a lot with the economy as soft as it is. </p></sync>
+<sync start="5193000"/><p class="enuscc">Rail is usually less expensive on the long haul than truck. </p></sync>
+<sync start="5197000"/><p class="enuscc">Without knowing the study, it would be hard to say, yes, I agree or, no, I don't. </p></sync>
+<sync start="5202000"/><p class="enuscc">Okay. </p></sync>
+<sync start="5203000"/><p class="enuscc">Mike? </p></sync>
+<sync start="5205000"/><p class="enuscc">I certainly agree with the previous speakers. </p></sync>
+<sync start="5208000"/><p class="enuscc">We were talking about bottleneck perhaps before. </p></sync>
+<sync start="5212000"/><p class="enuscc">My presentation is looking at the future. </p></sync>
+<sync start="5217000"/><p class="enuscc">Even with a 5 to 6% shift to rail, you will still see a huge amount of trouble on the nation's Rhodes. </p></sync>
+<sync start="5226000"/><p class="enuscc">I think as the nine mentioned before the idea that the rail system could handle that very easily is questionable, at least in some markets. </p></sync>
+<sync start="5234000"/><p class="enuscc">Even if you do have some shifts with regard to that, the issues that we are looking at in terms of a bottlenecks on both the highway network and rail still have to be addressed one way or the other. </p></sync>
+<sync start="5246000"/><p class="enuscc">I just returned from an international scanning program and try not looking at freight movement in China and what is expected to come through those ports coming our way. </p></sync>
+<sync start="5261000"/><p class="enuscc">As many people know, there is a huge flow coming at us. </p></sync>
+<sync start="5265000"/><p class="enuscc">Even if a large percentage of that goes to rail, we will still be heavily relied on trucks and truck movement to get that freight where it needs to go. </p></sync>
+<sync start="5274000"/><p class="enuscc">Of Cape. </p></sync>
+<sync start="5276000"/><p class="enuscc">I did not see any other questions for but did any of the presenters have any questions that were sent to you that I might not have seen. </p></sync>
+<sync start="5314000"/><p class="enuscc">I have one on the freight policy on national land ports. </p></sync>
+<sync start="5320000"/><p class="enuscc">These ports are bearing the cost whether it is environmental or congestion meeting of the Midwest. </p></sync>
+<sync start="5327000"/><p class="enuscc">How do you make sure that communities are willing to grow? </p></sync>
+<sync start="5334000"/><p class="enuscc">I am assuming that Texas has the same issue as cargo goes into the country. </p></sync>
+<sync start="5341000"/><p class="enuscc">We need to move it to another community. </p></sync>
+<sync start="5346000"/><p class="enuscc">How do we spread that with the local cost? </p></sync>
+<sync start="5347000"/><p class="enuscc">Okay. </p></sync>
+<sync start="5348000"/><p class="enuscc">Thank you. </p></sync>
+<sync start="5351000"/><p class="enuscc">I did have one that was sent to me as well. </p></sync>
+<sync start="5353000"/><p class="enuscc">This is Paul. </p></sync>
+<sync start="5357000"/><p class="enuscc">How do trucking companies react to C-TIP? </p></sync>
+<sync start="5360000"/><p class="enuscc">It seems like they could lose a freight. </p></sync>
+<sync start="5364000"/><p class="enuscc">The key there is that you would have to do a couple of things. </p></sync>
+<sync start="5367000"/><p class="enuscc">You would have to build business rules and to the algorithm and make sure that you distribute those equitably. </p></sync>
+<sync start="5374000"/><p class="enuscc">The other thing is that not one of the things that the truckers would do is provide input into the system that tells all of the railroads with their capacity is to move loads during a given time frame. </p></sync>
+<sync start="5388000"/><p class="enuscc">The contracts that have to be in place, the agreements between the railroads and the trucking companies to move the load, there would have to be it-something that has not been worked out yet, some negotiated solutions. </p></sync>
+<sync start="5404000"/><p class="enuscc">There continues to be an equitable distribution of loads among all of the participants. </p></sync>
+<sync start="5411000"/><p class="enuscc">That you would be exactly right, if there is not a way to manage that so no one got screwed out of their loads, then it would fail. </p></sync>
+<sync start="5421000"/><p class="enuscc">That is one of the things that will have to be decided upon as the system gets developed and implemented. </p></sync>
+<sync start="5427000"/><p class="enuscc">Okay. </p></sync>
+<sync start="5428000"/><p class="enuscc">Thank you. </p></sync>
+<sync start="5429000"/><p class="enuscc">We are about out of time. </p></sync>
+<sync start="5433000"/><p class="enuscc">We will close out today since there are no more questions type and. </p></sync>
+<sync start="5438000"/><p class="enuscc">If you do have additional questions, please fill free to contact the presenters. </p></sync>
+<sync start="5445000"/><p class="enuscc">I have their e-mail on the slide. </p></sync>
+<sync start="5448000"/><p class="enuscc">There is also the Freight Planning LISTSERV. </p></sync>
+<sync start="5454000"/><p class="enuscc">There are over 600 people interested at this point on the freight. </p></sync>
+<sync start="5457000"/><p class="enuscc">Think that for attending the seminar. </p></sync>
+<sync start="5461000"/><p class="enuscc">The recorded version will be on the Talking Freight Web site. </p></sync>
+<sync start="5466000"/><p class="enuscc">I will send an e-mail when that is available. </p></sync>
+<sync start="5469000"/><p class="enuscc">Monitoring and measuring freight mobility will be on November 21st. </p></sync>
+<sync start="5476000"/><p class="enuscc">I encourage you to get on the Talking Freight Web site. </p></sync>
+<sync start="5481000"/><p class="enuscc">One more time, I encourage you to join the Freight Planning LISTSERV. </p></sync>
+<sync start="5486000"/><p class="enuscc">Thank you, everybody can enjoy the risk of your date. </p></sync>
+<sync start="5486000"/><p class="enuscc">Thank you. </p></sync>
+<sync start="5486000"/><p class="enuscc">Thank you. </p></sync>
+<sync start="5496000"/><p class="enuscc">(end)</p></sync>
+</BODY>
+</SAMI>
