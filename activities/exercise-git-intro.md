@@ -26,7 +26,7 @@ Here are just a few examples:
 * The Rockefeller Archive Center uses a Git repository to create, version, manage, and publish its digital preservation policy. https://github.com/RockefellerArchiveCenter/digital-preservation-policy
 * Many libraries or library projects, use GitHub to manage public metadata profiles and documentation, through the Digital Library Federation’s Metadata Specs Clearinghouse. https://github.com/DLFMetadataAssessment/MetadataSpecsClearinghouse/
 * The LOCKSS initiative uses a GitHub pages space to host its documentation and
-guidance for using LOCKSS. https://lockss.github.io/ 
+guidance for using LOCKSS. https://lockss.github.io/
 
 We will work through the basics of using Git, a widely-used version control tool.
 Git, particularly in the open, multiple user "GitHub" or other shared Git platforms
@@ -70,6 +70,19 @@ use the pull command:
 If you are in the main directory of the repo, you can use this command without
 any further arguments. The current directory is assumed.
 
+### Checking Current Status
+
+If you are working in a repo on your local computer, you can check the status of
+the repo to see if there are files that are not updated using the "status"
+command:
+
+```
+% git status
+```
+
+This command will tell you if there are new files to add. If you want to check the
+remote repo, always also run a `git pull` too.
+
 ### Modifying, Adding, and "Pushing" to a Repo
 
 For most of the purposes of this course, you will not need to upload changes.
@@ -102,7 +115,7 @@ workflow of copying or "pulling" a repo, and updating or "pushing" to a shared r
 There are many more advanced things you can do with Git, particularly when it comes
 to software or code development. If you are interested in exploring further, see the resources below.
 
-**For the purposes of the course,** the main commands to know are: 
+**For the purposes of the course,** the main commands to know are:
 
 * `git clone` to copy the repo
 * `git pull` to update the repo; note that this command won't overwrite any files you've added or created
