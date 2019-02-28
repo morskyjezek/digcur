@@ -102,6 +102,11 @@ workflow of copying or "pulling" a repo, and updating or "pushing" to a shared r
 There are many more advanced things you can do with Git, particularly when it comes
 to software or code development. If you are interested in exploring further, see the resources below.
 
+**For the purposes of the course,** the main commands to know are: 
+
+* `git clone` to copy the repo
+* `git pull` to update the repo; note that this command won't overwrite any files you've added or created
+
 ## Useful resources
 
 * GitHub cheat sheet: https://education.github.com/git-cheat-sheet-education.pdf
