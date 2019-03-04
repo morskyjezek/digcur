@@ -32,6 +32,10 @@ We will work through the basics of using Git, a widely-used version control tool
 Git, particularly in the open, multiple user "GitHub" or other shared Git platforms
 (like GitLab), also supports distributed work on a single project as well as collaboration.
 
+A system schematic of the Git concept might look like this:
+
+![Basic Git schematic image showing working area, staging, and .git directory](https://librarycarpentry.org/lc-git/fig/git-staging-area.svg)
+
 ## Basic GitHub Usage
 
 GitHub follows the standard Git workflow, which allows for users to received or copy
