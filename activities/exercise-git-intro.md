@@ -34,7 +34,7 @@ Git, particularly in the open, multiple user "GitHub" or other shared Git platfo
 
 A system schematic of the Git concept might look like this:
 
-![Basic Git schematic image showing working area, staging, and .git directory](https://guides.github.com/)
+![Basic Git schematic image showing working area, staging, and .git directory](https://librarycarpentry.org/lc-git/fig/git-staging-area.svg)
 
 ## Basic GitHub Usage
 
