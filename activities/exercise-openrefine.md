@@ -76,6 +76,15 @@ of being separated into multiple subfields. You should receive the data in XML f
 ### Clustering
 *Try on programs column.*
 
+## Reflection Activities
+
+1. Practice pulling in data from at least two sources. For example, pull in the XML data from data.gov discussed
+above. Also, try pulling JSON information from the loc.gov API, try a search that we haven't done in class. 
+1. For the next activities, use the "frog" dataset from the assets folder [here](../assets/FW06166-frogs-track-info-no-location.csv). The data is a CSV file. 
+  * Practice splits on the species column (some contain multiple values). What character is used to separate the data? 
+  * Practice a text facet on the collector column. What are the names of the collectors? 
+  * Practice a join on the dates and times. How would you join these columns together into one "date-time" column? Provide the GREL expression you develop. 
+
 ## Resources
 
 * [OpenRefine Tutorial in pdf from UMD CASCI Center](https://casci.umd.edu/wp-content/uploads/2013/12/OpenRefine-tutorial-v1.5.pdf), more videos [here](https://casci.umd.edu/research-resource/data-manipulation-tools/openrefine/)
