@@ -112,3 +112,4 @@ See these additional resources for more detailed information:
 * C. Severance, _Python for Everybody_: tips for [Mac](https://www.py4e.com/software-mac.php), tips for [Windows](https://www.py4e.com/software-win.php).
 * [Copy, Create, Rename and Remove Unix Directories](http://documentation.its.umich.edu/node/295)
 * Wikipedia, [Find (Unix)](https://en.wikipedia.org/wiki/Find_(Unix))
+* Art of the Command Line https://github.com/jlevy/the-art-of-command-line
