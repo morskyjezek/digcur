@@ -77,9 +77,7 @@ of being separated into multiple subfields. You should receive the data in XML f
 *Try on programs column.*
 
 ## Reflection Activities
-
-1. Practice pulling in data from at least two sources. For example, pull in the XML data from data.gov discussed
-above. Also, try pulling JSON information from the loc.gov API, try a search that we haven't done in class. 
+#### Introduction
 1. For the next activities, use the "frog" dataset from the assets folder [here](../assets/FW06166-frogs-track-info-no-location.csv). 
 The data is a CSV file. 
 First, you need to import the data into OpenRefine (you can download and load it locally, or you can import directly form the link above). 
@@ -87,6 +85,10 @@ Then:
     * Practice splits on the species column (some contain multiple values). What character is used to separate the data? 
     * Practice a text facet on the collector column. What are the names of the collectors? 
     * Practice a transform to join the dates and times. How would you join these columns together into one "date-time" column? You may do this in one step or multiple steps. Provide the steps, and any GREL expression you develop to do this. 
+
+#### More Involved
+1. Practice pulling in data from at least two sources. For example, pull in the XML data from data.gov discussed
+above. Also, try pulling JSON information from the loc.gov API, try a search that we haven't done in class. 
 
 ## Resources
 
