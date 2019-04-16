@@ -87,8 +87,16 @@ or you can import directly from the link above). Then:
     * Practice a transform to join the dates and times. How would you join these columns together into one "date-time" column? You may do this in one step or multiple steps. Provide the steps, and any GREL expression you develop to do this. 
 
 #### More Involved
-1. Practice pulling in data from at least two sources. For example, pull in the XML data from data.gov discussed
-above. Also, try pulling JSON information from the loc.gov API, try a search that we haven't done in class. 
+These activities ask you to use some of the more advanced features, which you can use to augment 
+the data that you are working with using external sources, such as new datasets and information 
+from other Web services or authority files. 
+1. Practice pulling in data in at least two other formats (not CSV): 
+    * Pull in XML data from data.gov, as discussed above, locate and import the file discussed at https://catalog.data.gov/dataset/neh-grant-data-1966-1969-flattened. 
+    * Pull in JSON information from the loc.gov API, using a search that we have not done before in class. 
+1. Use the 'Add column by fetching URLs' option to create a new column of data based on some aspect that is already known. 
+  For example, fetch the journal title using the Crossref API.
+1. Use the reconciliation service to make suggestions about possible controlled options for the 
+  publishers of the journals in the set of 1000 Crossref citations. You can call out to the VIAF service, and also look for the ID
 
 ## Resources
 
