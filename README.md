@@ -7,3 +7,6 @@ This repository holds materials for use in learning digital curation tools and c
 * preparing, producing: bagging files with Bagger. Tools: Bagger
 * analyze, plan, ingest, integrity: generate metadata about a group of files, create checksums, validate; do some basic metadata transformations using structured output/bag from Data Accessioner. Tools: Data Accessioner
 * metadata recording, transformation: record metadata in a spreadsheet, generate XML encoding, transform to display with XSLT. Tools: spreadsheets, python to generate XML, develop an XSLT transform to display on the web.
+
+## Try it in Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morskyjezek/digcur/master)
