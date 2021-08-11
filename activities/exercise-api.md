@@ -57,7 +57,7 @@ If you save the response as a file, you can open it in a text editor or browser 
 
 ## Automating the Data Retrieval with Python  
 
-Let's write a program that will query the API endpoint and write the results into a JSON file and/or CSV. See [this example from rochelleterman](https://github.com/rochelleterman/scrape-interwebz/blob/master/1_APIs/3_api_workbook.ipynb).
+Let's write a program that will query the API endpoint and write the results into a JSON file and/or CSV. See [this example from rochelleterman](https://github.com/rochelleterman/scrape-interwebz/blob/master/1_APIs/3_api_workbook.ipynb). A [similar example from chennesy](https://github.com/chennesy/scraping_workshop/blob/master/scraping_fa20.ipynb) that gathers similar data using a web scraping approach (ie from html rather than structured data provided by an API). 
 
 ### Credits and Resources
 
