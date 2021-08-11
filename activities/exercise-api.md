@@ -57,7 +57,7 @@ If you save the response as a file, you can open it in a text editor or browser 
 
 ## Automating the Data Retrieval with Python  
 
-Let's write a program that will query the API endpoint and write the results into a JSON file and/or CSV.
+Let's write a program that will query the API endpoint and write the results into a JSON file and/or CSV. See [this example from rochelleterman](https://github.com/rochelleterman/scrape-interwebz/blob/master/1_APIs/3_api_workbook.ipynb)
 
 ### Credits and Resources
 
