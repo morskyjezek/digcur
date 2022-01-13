@@ -10,6 +10,10 @@ and across preservation copies of digital information. This information
 is generally managed in metadata records or filesystem inventory databases,
 but it can be generated and checked using shell tools.
 
+Note: This page demonstrates how to do this process using the `shasum`
+utility, but to take similar steps using the MD5 algorithm, you
+may need to use the `md5` utility.
+
 ## Creating checksum information using `shasum`
 
 The `shasum` utility can be used to create and check fixity information for files.
