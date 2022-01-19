@@ -15,4 +15,4 @@ These examples were proposed in 2018, during a first iteration of this repositor
 
 ## Try it in Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morskyjezek/digcur/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/morskyjezek/digcur/main)
