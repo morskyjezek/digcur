@@ -114,3 +114,4 @@ See these additional resources for more detailed information:
 * Wikipedia, [Find (Unix)](https://en.wikipedia.org/wiki/Find_(Unix))
 * Art of the Command Line https://github.com/jlevy/the-art-of-command-line
 * [Bash cookbook for archivists](https://avpres.net/Bash/)
+* [Script Ahoy](https://dd388.github.io/crals/) resource for archivists
